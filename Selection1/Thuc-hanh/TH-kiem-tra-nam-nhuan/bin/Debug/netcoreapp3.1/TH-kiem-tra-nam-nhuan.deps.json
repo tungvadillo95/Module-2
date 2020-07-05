@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TH-kiem-tra-nam-nhuan/1.0.0": {
+        "runtime": {
+          "TH-kiem-tra-nam-nhuan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH-kiem-tra-nam-nhuan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\bin\Debug\netcoreapp3.1\TH-mine-sweeper.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\bin\Debug\netcoreapp3.1\TH-mine-sweeper.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\bin\Debug\netcoreapp3.1\TH-mine-sweeper.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\bin\Debug\netcoreapp3.1\TH-mine-sweeper.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\bin\Debug\netcoreapp3.1\TH-mine-sweeper.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\bin\Debug\netcoreapp3.1\TH-mine-sweeper.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\obj\Debug\netcoreapp3.1\TH-mine-sweeper.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\obj\Debug\netcoreapp3.1\TH-mine-sweeper.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\obj\Debug\netcoreapp3.1\TH-mine-sweeper.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\obj\Debug\netcoreapp3.1\TH-mine-sweeper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\obj\Debug\netcoreapp3.1\TH-mine-sweeper.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\obj\Debug\netcoreapp3.1\TH-mine-sweeper.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-mine-sweeper\obj\Debug\netcoreapp3.1\TH-mine-sweeper.genruntimeconfig.cache

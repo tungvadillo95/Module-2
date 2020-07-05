@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\bin\Debug\netcoreapp3.1\TH-doi-nhiet-do.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\bin\Debug\netcoreapp3.1\TH-doi-nhiet-do.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\bin\Debug\netcoreapp3.1\TH-doi-nhiet-do.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\bin\Debug\netcoreapp3.1\TH-doi-nhiet-do.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\bin\Debug\netcoreapp3.1\TH-doi-nhiet-do.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\bin\Debug\netcoreapp3.1\TH-doi-nhiet-do.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\obj\Debug\netcoreapp3.1\TH-doi-nhiet-do.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\obj\Debug\netcoreapp3.1\TH-doi-nhiet-do.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\obj\Debug\netcoreapp3.1\TH-doi-nhiet-do.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\obj\Debug\netcoreapp3.1\TH-doi-nhiet-do.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\obj\Debug\netcoreapp3.1\TH-doi-nhiet-do.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\obj\Debug\netcoreapp3.1\TH-doi-nhiet-do.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-doi-nhiet-do\obj\Debug\netcoreapp3.1\TH-doi-nhiet-do.genruntimeconfig.cache

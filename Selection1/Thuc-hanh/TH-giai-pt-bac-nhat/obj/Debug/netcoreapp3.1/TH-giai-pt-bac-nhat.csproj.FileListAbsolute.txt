@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\bin\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\bin\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\bin\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\bin\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\bin\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\bin\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\obj\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\obj\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\obj\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\obj\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\obj\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\obj\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-giai-pt-bac-nhat\obj\Debug\netcoreapp3.1\TH-giai-pt-bac-nhat.genruntimeconfig.cache

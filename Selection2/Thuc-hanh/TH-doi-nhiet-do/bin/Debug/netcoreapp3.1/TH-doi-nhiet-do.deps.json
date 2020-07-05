@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TH-doi-nhiet-do/1.0.0": {
+        "runtime": {
+          "TH-doi-nhiet-do.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH-doi-nhiet-do/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

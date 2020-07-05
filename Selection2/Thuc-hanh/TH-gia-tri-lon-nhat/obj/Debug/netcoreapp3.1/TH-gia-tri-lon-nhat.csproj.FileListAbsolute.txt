@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\bin\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\bin\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\bin\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\bin\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\bin\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\bin\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\obj\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\obj\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\obj\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\obj\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\obj\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\obj\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Thuc-hanh\TH-gia-tri-lon-nhat\obj\Debug\netcoreapp3.1\TH-gia-tri-lon-nhat.genruntimeconfig.cache

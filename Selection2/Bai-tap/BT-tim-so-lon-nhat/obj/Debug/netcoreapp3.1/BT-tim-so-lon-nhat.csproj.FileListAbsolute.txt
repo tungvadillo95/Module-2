@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\bin\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\bin\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\bin\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\bin\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\bin\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\bin\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\obj\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\obj\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\obj\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\obj\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\obj\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\obj\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tim-so-lon-nhat\obj\Debug\netcoreapp3.1\BT-tim-so-lon-nhat.genruntimeconfig.cache

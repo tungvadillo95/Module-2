@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\bin\Debug\netcoreapp3.1\BT-gop-mang.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\bin\Debug\netcoreapp3.1\BT-gop-mang.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\bin\Debug\netcoreapp3.1\BT-gop-mang.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\bin\Debug\netcoreapp3.1\BT-gop-mang.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\bin\Debug\netcoreapp3.1\BT-gop-mang.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\bin\Debug\netcoreapp3.1\BT-gop-mang.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\obj\Debug\netcoreapp3.1\BT-gop-mang.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\obj\Debug\netcoreapp3.1\BT-gop-mang.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\obj\Debug\netcoreapp3.1\BT-gop-mang.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\obj\Debug\netcoreapp3.1\BT-gop-mang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\obj\Debug\netcoreapp3.1\BT-gop-mang.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\obj\Debug\netcoreapp3.1\BT-gop-mang.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-gop-mang\obj\Debug\netcoreapp3.1\BT-gop-mang.genruntimeconfig.cache

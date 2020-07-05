@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TH-su-dung-toan-tu/1.0.0": {
+        "runtime": {
+          "TH-su-dung-toan-tu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH-su-dung-toan-tu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

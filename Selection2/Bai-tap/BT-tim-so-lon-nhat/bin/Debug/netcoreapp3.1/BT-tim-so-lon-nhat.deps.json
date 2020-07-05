@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BT-tim-so-lon-nhat/1.0.0": {
+        "runtime": {
+          "BT-tim-so-lon-nhat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT-tim-so-lon-nhat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

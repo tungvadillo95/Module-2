@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\bin\Debug\netcoreapp3.1\TH-thiet-ke-menu.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\bin\Debug\netcoreapp3.1\TH-thiet-ke-menu.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\bin\Debug\netcoreapp3.1\TH-thiet-ke-menu.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\bin\Debug\netcoreapp3.1\TH-thiet-ke-menu.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\bin\Debug\netcoreapp3.1\TH-thiet-ke-menu.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\bin\Debug\netcoreapp3.1\TH-thiet-ke-menu.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\obj\Debug\netcoreapp3.1\TH-thiet-ke-menu.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\obj\Debug\netcoreapp3.1\TH-thiet-ke-menu.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\obj\Debug\netcoreapp3.1\TH-thiet-ke-menu.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\obj\Debug\netcoreapp3.1\TH-thiet-ke-menu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\obj\Debug\netcoreapp3.1\TH-thiet-ke-menu.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\obj\Debug\netcoreapp3.1\TH-thiet-ke-menu.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-thiet-ke-menu\obj\Debug\netcoreapp3.1\TH-thiet-ke-menu.genruntimeconfig.cache

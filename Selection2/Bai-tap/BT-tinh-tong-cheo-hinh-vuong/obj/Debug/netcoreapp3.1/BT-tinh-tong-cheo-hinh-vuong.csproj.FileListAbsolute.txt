@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\bin\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\bin\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\bin\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\bin\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\bin\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\bin\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\obj\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\obj\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\obj\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\obj\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\obj\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\obj\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection2\Bai-tap\BT-tinh-tong-cheo-hinh-vuong\obj\Debug\netcoreapp3.1\BT-tinh-tong-cheo-hinh-vuong.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BT-doi-tien-te/1.0.0": {
+        "runtime": {
+          "BT-doi-tien-te.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT-doi-tien-te/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

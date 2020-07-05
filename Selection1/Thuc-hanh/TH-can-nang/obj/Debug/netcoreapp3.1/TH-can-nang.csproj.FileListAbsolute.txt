@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\bin\Debug\netcoreapp3.1\TH-can-nang.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\bin\Debug\netcoreapp3.1\TH-can-nang.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\bin\Debug\netcoreapp3.1\TH-can-nang.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\bin\Debug\netcoreapp3.1\TH-can-nang.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\bin\Debug\netcoreapp3.1\TH-can-nang.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\bin\Debug\netcoreapp3.1\TH-can-nang.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\obj\Debug\netcoreapp3.1\TH-can-nang.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\obj\Debug\netcoreapp3.1\TH-can-nang.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\obj\Debug\netcoreapp3.1\TH-can-nang.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\obj\Debug\netcoreapp3.1\TH-can-nang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\obj\Debug\netcoreapp3.1\TH-can-nang.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\obj\Debug\netcoreapp3.1\TH-can-nang.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-can-nang\obj\Debug\netcoreapp3.1\TH-can-nang.genruntimeconfig.cache

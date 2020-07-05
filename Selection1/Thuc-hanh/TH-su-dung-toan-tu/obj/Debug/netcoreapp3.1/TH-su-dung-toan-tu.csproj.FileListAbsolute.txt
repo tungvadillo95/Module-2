@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\bin\Debug\netcoreapp3.1\TH-su-dung-toan-tu.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\bin\Debug\netcoreapp3.1\TH-su-dung-toan-tu.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\bin\Debug\netcoreapp3.1\TH-su-dung-toan-tu.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\bin\Debug\netcoreapp3.1\TH-su-dung-toan-tu.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\bin\Debug\netcoreapp3.1\TH-su-dung-toan-tu.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\bin\Debug\netcoreapp3.1\TH-su-dung-toan-tu.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\obj\Debug\netcoreapp3.1\TH-su-dung-toan-tu.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\obj\Debug\netcoreapp3.1\TH-su-dung-toan-tu.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\obj\Debug\netcoreapp3.1\TH-su-dung-toan-tu.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\obj\Debug\netcoreapp3.1\TH-su-dung-toan-tu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\obj\Debug\netcoreapp3.1\TH-su-dung-toan-tu.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\obj\Debug\netcoreapp3.1\TH-su-dung-toan-tu.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection1\TH-su-dung-toan-tu\obj\Debug\netcoreapp3.1\TH-su-dung-toan-tu.genruntimeconfig.cache

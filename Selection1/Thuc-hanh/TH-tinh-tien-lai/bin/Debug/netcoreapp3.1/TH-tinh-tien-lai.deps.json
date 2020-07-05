@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TH-tinh-tien-lai/1.0.0": {
+        "runtime": {
+          "TH-tinh-tien-lai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH-tinh-tien-lai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
