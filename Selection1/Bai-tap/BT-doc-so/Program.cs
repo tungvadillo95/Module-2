@@ -147,7 +147,7 @@ namespace BT_doc_so
                 }
                 Console.WriteLine("Your number " + youNumber + " :" + readNumber);
             }
-            else if (youNumber < 1000)
+            else if (youNumber < 1000 && (youNumber % 100 > 20))
             {
                 switch (youNumber / 100)
                 {
@@ -181,9 +181,6 @@ namespace BT_doc_so
                 }
                 switch (youNumber / 10 % 10)
                 {
-                    case 1:
-                        readNumber += " and ten";
-                        break;
                     case 2:
                         readNumber += " and twenty";
                         break;
@@ -238,6 +235,138 @@ namespace BT_doc_so
                     case 9:
                         readNumber += " nine";
                         break;
+                }
+                Console.WriteLine("Your number " + youNumber + " :" + readNumber);
+            }
+            if (youNumber < 1000 && youNumber > 100 && youNumber % 100 < 20)
+            {
+                switch (youNumber / 100)
+                {
+                    case 1:
+                        readNumber = "One hundred";
+                        break;
+                    case 2:
+                        readNumber = "Two hundred";
+                        break;
+                    case 3:
+                        readNumber = "Three hundred";
+                        break;
+                    case 4:
+                        readNumber = "For hundred";
+                        break;
+                    case 5:
+                        readNumber = "Five hundred";
+                        break;
+                    case 6:
+                        readNumber = "Six hundred";
+                        break;
+                    case 7:
+                        readNumber = "Seven hundred";
+                        break;
+                    case 8:
+                        readNumber = "Eight hundred";
+                        break;
+                    case 9:
+                        readNumber = "Nine hundred";
+                        break;
+                }
+                switch (youNumber % 100)
+                {
+                    case 1:
+                        {
+                            readNumber += " and one";
+                            break;
+                        }
+                    case 2:
+                        {
+                            readNumber += " and two";
+                            break;
+                        }
+                    case 3:
+                        {
+                            readNumber += " and three";
+                            break;
+                        }
+                    case 4:
+                        {
+                            readNumber += " and four";
+                            break;
+                        }
+                    case 5:
+                        {
+                            readNumber += " and five";
+                            break;
+                        }
+                    case 6:
+                        {
+                            readNumber += " and six";
+                            break;
+                        }
+                    case 7:
+                        {
+                            readNumber += " and seven";
+                            break;
+                        }
+                    case 8:
+                        {
+                            readNumber += " and eight";
+                            break;
+                        }
+                    case 9:
+                        {
+                            readNumber += " and nine";
+                            break;
+                        }
+                    case 10:
+                        {
+                            readNumber += " and ten";
+                            break;
+                        }
+                    case 11:
+                        {
+                            readNumber += " and eleven";
+                            break;
+                        }
+                    case 12:
+                        {
+                            readNumber += " and twelve";
+                            break;
+                        }
+                    case 13:
+                        {
+                            readNumber += " and thirteen";
+                            break;
+                        }
+                    case 14:
+                        {
+                            readNumber += " and fourteen";
+                            break;
+                        }
+                    case 15:
+                        {
+                            readNumber += " and fiveteen";
+                            break;
+                        }
+                    case 16:
+                        {
+                            readNumber += " and sixteen";
+                            break;
+                        }
+                    case 17:
+                        {
+                            readNumber += " and seventeen";
+                            break;
+                        }
+                    case 18:
+                        {
+                            readNumber += " and eighteen";
+                            break;
+                        }
+                    case 19:
+                        {
+                            readNumber += " and nineteen";
+                            break;
+                        }
                 }
                 Console.WriteLine("Your number " + youNumber + " :" + readNumber);
             }
