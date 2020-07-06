@@ -85,7 +85,7 @@ namespace BT_tim_so_lon_nhat
             {
                 for (int j = 0; j < arr.GetLength(1); j++)
                 {
-                    Console.Write(arr[i, j] + "  ");
+                    Console.Write(arr[i, j] + "\t");
                 }
                 Console.WriteLine();
             }
