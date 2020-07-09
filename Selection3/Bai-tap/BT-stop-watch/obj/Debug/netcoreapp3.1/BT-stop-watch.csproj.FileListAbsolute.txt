@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\bin\Debug\netcoreapp3.1\BT-stop-watch.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\bin\Debug\netcoreapp3.1\BT-stop-watch.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\bin\Debug\netcoreapp3.1\BT-stop-watch.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\bin\Debug\netcoreapp3.1\BT-stop-watch.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\bin\Debug\netcoreapp3.1\BT-stop-watch.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\bin\Debug\netcoreapp3.1\BT-stop-watch.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\obj\Debug\netcoreapp3.1\BT-stop-watch.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\obj\Debug\netcoreapp3.1\BT-stop-watch.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\obj\Debug\netcoreapp3.1\BT-stop-watch.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\obj\Debug\netcoreapp3.1\BT-stop-watch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\obj\Debug\netcoreapp3.1\BT-stop-watch.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\obj\Debug\netcoreapp3.1\BT-stop-watch.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-stop-watch\obj\Debug\netcoreapp3.1\BT-stop-watch.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\bin\Debug\netcoreapp3.1\TH-class-studen.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\bin\Debug\netcoreapp3.1\TH-class-studen.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\bin\Debug\netcoreapp3.1\TH-class-studen.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\bin\Debug\netcoreapp3.1\TH-class-studen.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\bin\Debug\netcoreapp3.1\TH-class-studen.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\bin\Debug\netcoreapp3.1\TH-class-studen.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\obj\Debug\netcoreapp3.1\TH-class-studen.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\obj\Debug\netcoreapp3.1\TH-class-studen.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\obj\Debug\netcoreapp3.1\TH-class-studen.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\obj\Debug\netcoreapp3.1\TH-class-studen.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\obj\Debug\netcoreapp3.1\TH-class-studen.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\obj\Debug\netcoreapp3.1\TH-class-studen.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-studen\obj\Debug\netcoreapp3.1\TH-class-studen.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\bin\Debug\netcoreapp3.1\TH-access-modiffier.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\bin\Debug\netcoreapp3.1\TH-access-modiffier.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\bin\Debug\netcoreapp3.1\TH-access-modiffier.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\bin\Debug\netcoreapp3.1\TH-access-modiffier.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\bin\Debug\netcoreapp3.1\TH-access-modiffier.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\bin\Debug\netcoreapp3.1\TH-access-modiffier.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\obj\Debug\netcoreapp3.1\TH-access-modiffier.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\obj\Debug\netcoreapp3.1\TH-access-modiffier.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\obj\Debug\netcoreapp3.1\TH-access-modiffier.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\obj\Debug\netcoreapp3.1\TH-access-modiffier.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\obj\Debug\netcoreapp3.1\TH-access-modiffier.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\obj\Debug\netcoreapp3.1\TH-access-modiffier.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-access-modiffier\obj\Debug\netcoreapp3.1\TH-access-modiffier.genruntimeconfig.cache

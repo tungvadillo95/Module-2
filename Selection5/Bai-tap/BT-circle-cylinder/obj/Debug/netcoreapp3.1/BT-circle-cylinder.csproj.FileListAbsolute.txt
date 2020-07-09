@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\bin\Debug\netcoreapp3.1\BT-circle-cylinder.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\bin\Debug\netcoreapp3.1\BT-circle-cylinder.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\bin\Debug\netcoreapp3.1\BT-circle-cylinder.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\bin\Debug\netcoreapp3.1\BT-circle-cylinder.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\bin\Debug\netcoreapp3.1\BT-circle-cylinder.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\bin\Debug\netcoreapp3.1\BT-circle-cylinder.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\obj\Debug\netcoreapp3.1\BT-circle-cylinder.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\obj\Debug\netcoreapp3.1\BT-circle-cylinder.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\obj\Debug\netcoreapp3.1\BT-circle-cylinder.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\obj\Debug\netcoreapp3.1\BT-circle-cylinder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\obj\Debug\netcoreapp3.1\BT-circle-cylinder.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\obj\Debug\netcoreapp3.1\BT-circle-cylinder.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-circle-cylinder\obj\Debug\netcoreapp3.1\BT-circle-cylinder.genruntimeconfig.cache

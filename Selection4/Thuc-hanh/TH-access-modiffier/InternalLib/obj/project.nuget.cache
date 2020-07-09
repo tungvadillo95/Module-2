@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+YvF/JvVDApa53wIr/4KSiLxmzWhDkOpCqqtBW1qJZ42VpvBog0mYhVetPAat0KjBhwi4uIo23F7TgC5C2bwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Selection4\\Thuc-hanh\\TH-access-modiffier\\InternalLib\\InternalLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

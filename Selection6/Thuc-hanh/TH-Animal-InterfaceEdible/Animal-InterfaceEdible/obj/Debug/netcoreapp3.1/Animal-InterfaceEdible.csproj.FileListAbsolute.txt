@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\obj\Debug\netcoreapp3.1\Animal-InterfaceEdible.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\obj\Debug\netcoreapp3.1\Animal-InterfaceEdible.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\obj\Debug\netcoreapp3.1\Animal-InterfaceEdible.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\obj\Debug\netcoreapp3.1\Animal-InterfaceEdible.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\bin\Debug\netcoreapp3.1\Animal-InterfaceEdible.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\bin\Debug\netcoreapp3.1\Animal-InterfaceEdible.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\bin\Debug\netcoreapp3.1\Animal-InterfaceEdible.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\bin\Debug\netcoreapp3.1\Animal-InterfaceEdible.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\bin\Debug\netcoreapp3.1\Animal-InterfaceEdible.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\bin\Debug\netcoreapp3.1\Animal-InterfaceEdible.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\obj\Debug\netcoreapp3.1\Animal-InterfaceEdible.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\obj\Debug\netcoreapp3.1\Animal-InterfaceEdible.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-Animal-InterfaceEdible\Animal-InterfaceEdible\obj\Debug\netcoreapp3.1\Animal-InterfaceEdible.genruntimeconfig.cache

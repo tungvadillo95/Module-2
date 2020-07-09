@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\bin\Debug\netcoreapp3.1\BT-2D-3D.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\bin\Debug\netcoreapp3.1\BT-2D-3D.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\bin\Debug\netcoreapp3.1\BT-2D-3D.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\bin\Debug\netcoreapp3.1\BT-2D-3D.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\bin\Debug\netcoreapp3.1\BT-2D-3D.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\bin\Debug\netcoreapp3.1\BT-2D-3D.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\obj\Debug\netcoreapp3.1\BT-2D-3D.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\obj\Debug\netcoreapp3.1\BT-2D-3D.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\obj\Debug\netcoreapp3.1\BT-2D-3D.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\obj\Debug\netcoreapp3.1\BT-2D-3D.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\obj\Debug\netcoreapp3.1\BT-2D-3D.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\obj\Debug\netcoreapp3.1\BT-2D-3D.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point2D-3D\BT-2D-3D\obj\Debug\netcoreapp3.1\BT-2D-3D.genruntimeconfig.cache

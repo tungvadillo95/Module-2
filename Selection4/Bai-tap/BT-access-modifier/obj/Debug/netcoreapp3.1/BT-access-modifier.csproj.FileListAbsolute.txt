@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\bin\Debug\netcoreapp3.1\BT-access-modifier.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\bin\Debug\netcoreapp3.1\BT-access-modifier.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\bin\Debug\netcoreapp3.1\BT-access-modifier.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\bin\Debug\netcoreapp3.1\BT-access-modifier.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\bin\Debug\netcoreapp3.1\BT-access-modifier.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\bin\Debug\netcoreapp3.1\BT-access-modifier.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\obj\Debug\netcoreapp3.1\BT-access-modifier.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\obj\Debug\netcoreapp3.1\BT-access-modifier.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\obj\Debug\netcoreapp3.1\BT-access-modifier.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\obj\Debug\netcoreapp3.1\BT-access-modifier.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\obj\Debug\netcoreapp3.1\BT-access-modifier.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\obj\Debug\netcoreapp3.1\BT-access-modifier.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Bai-tap\BT-access-modifier\obj\Debug\netcoreapp3.1\BT-access-modifier.genruntimeconfig.cache

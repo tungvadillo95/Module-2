@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point-MovePoint", "Point-MovePoint\Point-MovePoint.csproj", "{19633E5A-50CF-4D60-83F4-8519463A64C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19633E5A-50CF-4D60-83F4-8519463A64C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19633E5A-50CF-4D60-83F4-8519463A64C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19633E5A-50CF-4D60-83F4-8519463A64C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19633E5A-50CF-4D60-83F4-8519463A64C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61521F01-64F9-4B4C-8ECC-172585D6620F}
+	EndGlobalSection
+EndGlobal

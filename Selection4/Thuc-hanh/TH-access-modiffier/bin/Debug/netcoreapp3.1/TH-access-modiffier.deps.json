@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TH-access-modiffier/1.0.0": {
+        "runtime": {
+          "TH-access-modiffier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH-access-modiffier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

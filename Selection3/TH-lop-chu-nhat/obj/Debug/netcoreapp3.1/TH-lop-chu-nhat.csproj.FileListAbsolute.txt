@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-chu-nhat.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-chu-nhat.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-chu-nhat.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-chu-nhat.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-chu-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-chu-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-chu-nhat.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-chu-nhat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-chu-nhat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-chu-nhat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-chu-nhat.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-chu-nhat.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\TH-lop-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-chu-nhat.genruntimeconfig.cache

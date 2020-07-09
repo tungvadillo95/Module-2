@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\bin\Debug\netcoreapp3.1\IComparer.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\bin\Debug\netcoreapp3.1\IComparer.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\bin\Debug\netcoreapp3.1\IComparer.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\bin\Debug\netcoreapp3.1\IComparer.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\bin\Debug\netcoreapp3.1\IComparer.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\bin\Debug\netcoreapp3.1\IComparer.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\obj\Debug\netcoreapp3.1\IComparer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\obj\Debug\netcoreapp3.1\IComparer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\obj\Debug\netcoreapp3.1\IComparer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\obj\Debug\netcoreapp3.1\IComparer.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\obj\Debug\netcoreapp3.1\IComparer.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-IComparer\IComparer\obj\Debug\netcoreapp3.1\IComparer.genruntimeconfig.cache

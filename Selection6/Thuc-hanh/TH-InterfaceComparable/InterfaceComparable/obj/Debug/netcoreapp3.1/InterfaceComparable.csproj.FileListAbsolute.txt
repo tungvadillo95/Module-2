@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\bin\Debug\netcoreapp3.1\InterfaceComparable.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\bin\Debug\netcoreapp3.1\InterfaceComparable.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\bin\Debug\netcoreapp3.1\InterfaceComparable.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\bin\Debug\netcoreapp3.1\InterfaceComparable.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\bin\Debug\netcoreapp3.1\InterfaceComparable.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\bin\Debug\netcoreapp3.1\InterfaceComparable.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\obj\Debug\netcoreapp3.1\InterfaceComparable.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\obj\Debug\netcoreapp3.1\InterfaceComparable.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\obj\Debug\netcoreapp3.1\InterfaceComparable.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\obj\Debug\netcoreapp3.1\InterfaceComparable.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\obj\Debug\netcoreapp3.1\InterfaceComparable.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\obj\Debug\netcoreapp3.1\InterfaceComparable.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Thuc-hanh\TH-InterfaceComparable\InterfaceComparable\obj\Debug\netcoreapp3.1\InterfaceComparable.genruntimeconfig.cache

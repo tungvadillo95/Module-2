@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\bin\Debug\netcoreapp3.1\InterfaceResizeable.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\bin\Debug\netcoreapp3.1\InterfaceResizeable.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\bin\Debug\netcoreapp3.1\InterfaceResizeable.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\bin\Debug\netcoreapp3.1\InterfaceResizeable.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\bin\Debug\netcoreapp3.1\InterfaceResizeable.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\bin\Debug\netcoreapp3.1\InterfaceResizeable.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\obj\Debug\netcoreapp3.1\InterfaceResizeable.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\obj\Debug\netcoreapp3.1\InterfaceResizeable.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\obj\Debug\netcoreapp3.1\InterfaceResizeable.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\obj\Debug\netcoreapp3.1\InterfaceResizeable.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\obj\Debug\netcoreapp3.1\InterfaceResizeable.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\obj\Debug\netcoreapp3.1\InterfaceResizeable.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection6\Bai-tap\BT-Interface-Resizeable\InterfaceResizeable\obj\Debug\netcoreapp3.1\InterfaceResizeable.genruntimeconfig.cache

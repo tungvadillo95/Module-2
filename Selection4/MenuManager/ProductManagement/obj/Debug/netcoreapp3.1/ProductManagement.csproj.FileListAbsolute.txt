@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\MenuManager\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.genruntimeconfig.cache

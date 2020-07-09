@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\bin\Debug\netcoreapp3.1\TH-static-method.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\bin\Debug\netcoreapp3.1\TH-static-method.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\bin\Debug\netcoreapp3.1\TH-static-method.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\bin\Debug\netcoreapp3.1\TH-static-method.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\bin\Debug\netcoreapp3.1\TH-static-method.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\bin\Debug\netcoreapp3.1\TH-static-method.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\obj\Debug\netcoreapp3.1\TH-static-method.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\obj\Debug\netcoreapp3.1\TH-static-method.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\obj\Debug\netcoreapp3.1\TH-static-method.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\obj\Debug\netcoreapp3.1\TH-static-method.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\obj\Debug\netcoreapp3.1\TH-static-method.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\obj\Debug\netcoreapp3.1\TH-static-method.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-static-method\obj\Debug\netcoreapp3.1\TH-static-method.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\obj\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\obj\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\obj\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\obj\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\bin\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\bin\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\bin\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\bin\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\bin\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\bin\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\obj\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\obj\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Thuc-hanh\TH-doi-tuong-hinh-hoc\obj\Debug\netcoreapp3.1\TH-doi-tuong-hinh-hoc.genruntimeconfig.cache

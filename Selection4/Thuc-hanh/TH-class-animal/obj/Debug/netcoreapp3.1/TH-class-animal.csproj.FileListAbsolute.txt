@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\bin\Debug\netcoreapp3.1\TH-class-animal.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\bin\Debug\netcoreapp3.1\TH-class-animal.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\bin\Debug\netcoreapp3.1\TH-class-animal.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\bin\Debug\netcoreapp3.1\TH-class-animal.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\bin\Debug\netcoreapp3.1\TH-class-animal.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\bin\Debug\netcoreapp3.1\TH-class-animal.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\obj\Debug\netcoreapp3.1\TH-class-animal.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\obj\Debug\netcoreapp3.1\TH-class-animal.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\obj\Debug\netcoreapp3.1\TH-class-animal.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\obj\Debug\netcoreapp3.1\TH-class-animal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\obj\Debug\netcoreapp3.1\TH-class-animal.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\obj\Debug\netcoreapp3.1\TH-class-animal.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection4\Thuc-hanh\TH-class-animal\obj\Debug\netcoreapp3.1\TH-class-animal.genruntimeconfig.cache

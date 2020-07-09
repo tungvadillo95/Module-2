@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BT-2D-3D/1.0.0": {
+        "runtime": {
+          "BT-2D-3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT-2D-3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

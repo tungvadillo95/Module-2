@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\bin\Debug\netcoreapp3.1\BT-lop-fan.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\bin\Debug\netcoreapp3.1\BT-lop-fan.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\bin\Debug\netcoreapp3.1\BT-lop-fan.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\bin\Debug\netcoreapp3.1\BT-lop-fan.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\bin\Debug\netcoreapp3.1\BT-lop-fan.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\bin\Debug\netcoreapp3.1\BT-lop-fan.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\obj\Debug\netcoreapp3.1\BT-lop-fan.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\obj\Debug\netcoreapp3.1\BT-lop-fan.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\obj\Debug\netcoreapp3.1\BT-lop-fan.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\obj\Debug\netcoreapp3.1\BT-lop-fan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\obj\Debug\netcoreapp3.1\BT-lop-fan.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\obj\Debug\netcoreapp3.1\BT-lop-fan.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection3\Bai-tap\BT-lop-fan\obj\Debug\netcoreapp3.1\BT-lop-fan.genruntimeconfig.cache

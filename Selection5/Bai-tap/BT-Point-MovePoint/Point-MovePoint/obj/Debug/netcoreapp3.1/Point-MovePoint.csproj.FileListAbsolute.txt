@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\bin\Debug\netcoreapp3.1\Point-MovePoint.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\bin\Debug\netcoreapp3.1\Point-MovePoint.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\bin\Debug\netcoreapp3.1\Point-MovePoint.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\bin\Debug\netcoreapp3.1\Point-MovePoint.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\bin\Debug\netcoreapp3.1\Point-MovePoint.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\bin\Debug\netcoreapp3.1\Point-MovePoint.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\obj\Debug\netcoreapp3.1\Point-MovePoint.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\obj\Debug\netcoreapp3.1\Point-MovePoint.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\obj\Debug\netcoreapp3.1\Point-MovePoint.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\obj\Debug\netcoreapp3.1\Point-MovePoint.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\obj\Debug\netcoreapp3.1\Point-MovePoint.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\obj\Debug\netcoreapp3.1\Point-MovePoint.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection5\Bai-tap\BT-Point-MovePoint\Point-MovePoint\obj\Debug\netcoreapp3.1\Point-MovePoint.genruntimeconfig.cache
