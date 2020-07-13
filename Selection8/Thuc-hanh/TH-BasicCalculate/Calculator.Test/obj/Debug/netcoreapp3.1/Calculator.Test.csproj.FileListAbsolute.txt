@@ -1,0 +1,289 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Calculator.Test.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Calculator.Test.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Calculator.Test.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Calculator.Test.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Calculator.Test.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Calculator.Service.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/bin/Debug/netcoreapp3.1/Calculator.Service.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/obj/Debug/netcoreapp3.1/Calculator.Test.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/obj/Debug/netcoreapp3.1/Calculator.Test.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/obj/Debug/netcoreapp3.1/Calculator.Test.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/obj/Debug/netcoreapp3.1/Calculator.Test.csproj.CopyComplete
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/obj/Debug/netcoreapp3.1/Calculator.Test.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Test/obj/Debug/netcoreapp3.1/Calculator.Test.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Service.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Service.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Service.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Service.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Test\obj\Debug\netcoreapp3.1\Calculator.Test.genruntimeconfig.cache

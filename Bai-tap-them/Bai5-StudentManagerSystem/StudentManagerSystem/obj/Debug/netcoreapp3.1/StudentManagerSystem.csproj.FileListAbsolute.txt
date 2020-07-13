@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\bin\Debug\netcoreapp3.1\StudentManagerSystem.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\bin\Debug\netcoreapp3.1\StudentManagerSystem.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\bin\Debug\netcoreapp3.1\StudentManagerSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\bin\Debug\netcoreapp3.1\StudentManagerSystem.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\bin\Debug\netcoreapp3.1\StudentManagerSystem.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\bin\Debug\netcoreapp3.1\StudentManagerSystem.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\obj\Debug\netcoreapp3.1\StudentManagerSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\obj\Debug\netcoreapp3.1\StudentManagerSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\obj\Debug\netcoreapp3.1\StudentManagerSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\obj\Debug\netcoreapp3.1\StudentManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\obj\Debug\netcoreapp3.1\StudentManagerSystem.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\obj\Debug\netcoreapp3.1\StudentManagerSystem.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai5-StudentManagerSystem\StudentManagerSystem\obj\Debug\netcoreapp3.1\StudentManagerSystem.genruntimeconfig.cache

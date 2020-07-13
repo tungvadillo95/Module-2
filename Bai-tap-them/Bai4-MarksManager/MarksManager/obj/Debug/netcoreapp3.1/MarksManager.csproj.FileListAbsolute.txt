@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\bin\Debug\netcoreapp3.1\MarksManager.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\bin\Debug\netcoreapp3.1\MarksManager.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\bin\Debug\netcoreapp3.1\MarksManager.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\bin\Debug\netcoreapp3.1\MarksManager.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\bin\Debug\netcoreapp3.1\MarksManager.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\bin\Debug\netcoreapp3.1\MarksManager.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\obj\Debug\netcoreapp3.1\MarksManager.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\obj\Debug\netcoreapp3.1\MarksManager.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\obj\Debug\netcoreapp3.1\MarksManager.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\obj\Debug\netcoreapp3.1\MarksManager.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\obj\Debug\netcoreapp3.1\MarksManager.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\obj\Debug\netcoreapp3.1\MarksManager.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\BT-MarksManager\MarksManager\obj\Debug\netcoreapp3.1\MarksManager.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\bin\Debug\netcoreapp3.1\RefacroringVariable.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\bin\Debug\netcoreapp3.1\RefacroringVariable.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\bin\Debug\netcoreapp3.1\RefacroringVariable.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\bin\Debug\netcoreapp3.1\RefacroringVariable.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\bin\Debug\netcoreapp3.1\RefacroringVariable.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\bin\Debug\netcoreapp3.1\RefacroringVariable.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\obj\Debug\netcoreapp3.1\RefacroringVariable.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\obj\Debug\netcoreapp3.1\RefacroringVariable.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\obj\Debug\netcoreapp3.1\RefacroringVariable.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\obj\Debug\netcoreapp3.1\RefacroringVariable.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\obj\Debug\netcoreapp3.1\RefacroringVariable.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\obj\Debug\netcoreapp3.1\RefacroringVariable.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-RefacroringVariable\RefacroringVariable\obj\Debug\netcoreapp3.1\RefacroringVariable.genruntimeconfig.cache

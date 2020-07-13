@@ -1,0 +1,26 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/bin/Debug/netstandard2.0/Calculator.Service.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/bin/Debug/netstandard2.0/Calculator.Service.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/bin/Debug/netstandard2.0/Calculator.Service.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/obj/Debug/netstandard2.0/Calculator.Service.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/obj/Debug/netstandard2.0/Calculator.Service.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/obj/Debug/netstandard2.0/Calculator.Service.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/obj/Debug/netstandard2.0/Calculator.Service.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/TDD/simple-calculator-test/Calculator.Service/obj/Debug/netstandard2.0/Calculator.Service.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\bin\Debug\netstandard2.0\Calculator.Service.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\bin\Debug\netstandard2.0\Calculator.Service.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\bin\Debug\netstandard2.0\Calculator.Service.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\FIle-clone\dotnet-simple-calculator-test\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\bin\Debug\netstandard2.0\Calculator.Service.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\bin\Debug\netstandard2.0\Calculator.Service.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\bin\Debug\netstandard2.0\Calculator.Service.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-BasicCalculate\Calculator.Service\obj\Debug\netstandard2.0\Calculator.Service.pdb

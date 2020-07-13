@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RefactoringMethod/1.0.0": {
+        "runtime": {
+          "RefactoringMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RefactoringMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

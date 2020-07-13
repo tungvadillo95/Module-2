@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\TH-Refactoring\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.genruntimeconfig.cache

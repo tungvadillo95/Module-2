@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\bin\Debug\netcoreapp3.1\BookManagerSystem.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\bin\Debug\netcoreapp3.1\BookManagerSystem.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\bin\Debug\netcoreapp3.1\BookManagerSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\bin\Debug\netcoreapp3.1\BookManagerSystem.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\bin\Debug\netcoreapp3.1\BookManagerSystem.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\bin\Debug\netcoreapp3.1\BookManagerSystem.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\obj\Debug\netcoreapp3.1\BookManagerSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\obj\Debug\netcoreapp3.1\BookManagerSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\obj\Debug\netcoreapp3.1\BookManagerSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\obj\Debug\netcoreapp3.1\BookManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\obj\Debug\netcoreapp3.1\BookManagerSystem.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\obj\Debug\netcoreapp3.1\BookManagerSystem.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai3-BookManagerSystem\BookManagerSystem\obj\Debug\netcoreapp3.1\BookManagerSystem.genruntimeconfig.cache

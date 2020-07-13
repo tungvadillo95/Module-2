@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\bin\Debug\netcoreapp3.1\RefactoringTennisGame.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\bin\Debug\netcoreapp3.1\RefactoringTennisGame.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\bin\Debug\netcoreapp3.1\RefactoringTennisGame.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\bin\Debug\netcoreapp3.1\RefactoringTennisGame.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\bin\Debug\netcoreapp3.1\RefactoringTennisGame.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\bin\Debug\netcoreapp3.1\RefactoringTennisGame.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\obj\Debug\netcoreapp3.1\RefactoringTennisGame.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\obj\Debug\netcoreapp3.1\RefactoringTennisGame.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\obj\Debug\netcoreapp3.1\RefactoringTennisGame.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\obj\Debug\netcoreapp3.1\RefactoringTennisGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\obj\Debug\netcoreapp3.1\RefactoringTennisGame.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\obj\Debug\netcoreapp3.1\RefactoringTennisGame.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection7\BT-RefactoringTennisGame\RefactoringTennisGame\obj\Debug\netcoreapp3.1\RefactoringTennisGame.genruntimeconfig.cache
