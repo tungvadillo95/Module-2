@@ -26,6 +26,7 @@ namespace Collection
         }
         public void Display()
         {
+            CalculatorRate();
             Console.WriteLine($"ID: {ID}, Title: {Title}, Content: {Content}, Author: {Author}, Count: {COUNT}, AverageRate: {AverageRate}");
         }
     }

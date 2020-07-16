@@ -24,19 +24,40 @@ namespace Collection
             }
             else
             {
-                Console.WriteLine("ID not in list!");
+                Console.WriteLine("ID not in list! \"Enter\" to continue...");
+                Console.ReadKey();
             }
         }
         public void Remove(int id)
         {
-            Posts.Remove(id);
+            if(Posts.Count != 0)
+            {
+                Posts.Remove(id);
+            }
+            else
+            {
+                Console.WriteLine("Posts Empty! \"Enter\" to continue...");
+                Console.ReadKey();
+            }
         }
         public void Show()
         {
-            for(int i=0; i < Posts.Count; i++)
+            if(Posts.Count != 0)
             {
-                Posts[i].Display();
+                for (int i = 0; i < Posts.Count; i++)
+                {
+                    Posts[i].Display();
+                }
             }
+            else
+            {
+                Console.WriteLine("Posts Empty! \"Enter\" to continue...");
+                Console.ReadKey();
+            }
+            //for (int i = 0; i < Posts.Count; i++)
+            //{
+            //    Posts[i].Display();
+            //}
         }
         public void FindTitle(string title)
         {

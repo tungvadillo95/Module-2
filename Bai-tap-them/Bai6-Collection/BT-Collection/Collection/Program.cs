@@ -24,39 +24,58 @@ namespace Collection
                 switch (choice)
                 {
                     case 1:
+                        Console.WriteLine("Create Post...");
                         CreatePost();
-                        //Console.WriteLine("Add phone manager");
-                        //Console.Write("Enter name: ");
-                        //name = Console.ReadLine();
-                        //Console.Write("Enter phone number: ");
-                        //newPhone = Console.ReadLine();
-                        //phoneBook.InsertPhone(name, newPhone);
                         break;
                     case 2:
-                        //Console.WriteLine("Update phone manager");
-                        //Console.Write("Enter name: ");
-                        //name = Console.ReadLine();
-                        //Console.Write("Enter phone number: ");
-                        //newPhone = Console.ReadLine();
-                        //phoneBook.UpdatePhone(name, newPhone);
+                        Console.WriteLine("Update Post by ID...");
+                        UpdatePost();
                         break;
                     case 3:
-                        //Console.WriteLine("Remove phone manager");
-                        //Console.Write("Enter name: ");
-                        //name = Console.ReadLine();
-                        //phoneBook.RemovePhone(name);
+                        Console.WriteLine("Remove Post by ID...");
+                        RemovePost();
                         break;
                     case 4:
-                        //Console.WriteLine("Search phone manager");
-                        //Console.Write("Enter name: ");
-                        //name = Console.ReadLine();
-                        //phoneBook.SearchPhone(name);
-                        break;
-                    case 5:
                         forum.Show();
                         break;
+                    case 5:
+                        byte choice_search;
+                        Console.WriteLine("Search...");
+                        Console.WriteLine("1. Search by Title");
+                        Console.WriteLine("2. Search by Author");
+                        choice_search = byte.Parse(Console.ReadLine());
+                        switch (choice_search)
+                        {
+                            case 1:
+                                Console.Write("Enter Title search: ");
+                                string title = Console.ReadLine();
+                                Console.WriteLine("Result...");
+                                forum.FindTitle(title);
+                                break;
+                            case 2:
+                                Console.Write("Enter Author search: ");
+                                string author = Console.ReadLine();
+                                Console.WriteLine("Result...");
+                                forum.FindAuthor(author);
+                                break;
+                            default:
+                                Console.WriteLine("No choice!");
+                                break;
+                        }
+                        break;
                     case 6:
-                        //phoneBook.Sort();
+                        Console.WriteLine("Rating by ID...");
+                        int id = GetID();
+                        int index = forum.FindID(id);
+                        if (index == -1)
+                         {
+                            Console.WriteLine("Invalid Post!");
+                         }
+                        else
+                        {
+                            Console.WriteLine("Result...");
+                            forum.Posts[index].Display();   
+                        }
                         break;
                     case 7:
                         Console.WriteLine("Exit...");
@@ -83,13 +102,36 @@ namespace Collection
                 string temp = Console.ReadLine();
                 while (!Int32.TryParse(temp, out post.RateList[i]) || (post.RateList[i] < post.MINRATING || post.RateList[i] > post.MAXRATING))
                 {
-                    Console.Write($"Nhap Lai: ");
+                    Console.Write($"Enter again vote rate {i + 1}:");
                     temp = Console.ReadLine();
                 }
             }
             post.ID = newID;
             newID++;
             forum.AddPost(post);
+        }
+        public static void UpdatePost()
+        {
+            int id = GetID();
+            Console.WriteLine("Enter new content: ");
+            string newContent = Console.ReadLine();
+            forum.Update(id, newContent);
+        }
+        public static void RemovePost()
+        {
+            int id = GetID();
+            forum.Remove(id);
+        }
+        public static int GetID()
+        {
+            Console.Write("Enter ID: ");
+            int id = int.Parse(Console.ReadLine());
+            while (id < 0)
+            {
+                Console.Write($"Enter again ID:");
+                id = int.Parse(Console.ReadLine());
+            }
+            return id;
         }
     }
 }
