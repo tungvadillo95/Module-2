@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\bin\Debug\netcoreapp3.1\QueueArrayList.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\bin\Debug\netcoreapp3.1\QueueArrayList.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\bin\Debug\netcoreapp3.1\QueueArrayList.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\bin\Debug\netcoreapp3.1\QueueArrayList.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\bin\Debug\netcoreapp3.1\QueueArrayList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\bin\Debug\netcoreapp3.1\QueueArrayList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\obj\Debug\netcoreapp3.1\QueueArrayList.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\obj\Debug\netcoreapp3.1\QueueArrayList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\obj\Debug\netcoreapp3.1\QueueArrayList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\obj\Debug\netcoreapp3.1\QueueArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\obj\Debug\netcoreapp3.1\QueueArrayList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\obj\Debug\netcoreapp3.1\QueueArrayList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-QueueArrayList\QueueArrayList\obj\Debug\netcoreapp3.1\QueueArrayList.genruntimeconfig.cache

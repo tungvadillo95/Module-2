@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\bin\Debug\netcoreapp3.1\AbsoluteNumberCalculator.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\bin\Debug\netcoreapp3.1\AbsoluteNumberCalculator.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\bin\Debug\netcoreapp3.1\AbsoluteNumberCalculator.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\bin\Debug\netcoreapp3.1\AbsoluteNumberCalculator.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\bin\Debug\netcoreapp3.1\AbsoluteNumberCalculator.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\bin\Debug\netcoreapp3.1\AbsoluteNumberCalculator.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\obj\Debug\netcoreapp3.1\AbsoluteNumberCalculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\obj\Debug\netcoreapp3.1\AbsoluteNumberCalculator.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\obj\Debug\netcoreapp3.1\AbsoluteNumberCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\obj\Debug\netcoreapp3.1\AbsoluteNumberCalculator.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\obj\Debug\netcoreapp3.1\AbsoluteNumberCalculator.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Thuc-hanh\TH-AbsoluteNumberCalculator\AbsoluteNumberCalculator\obj\Debug\netcoreapp3.1\AbsoluteNumberCalculator.genruntimeconfig.cache

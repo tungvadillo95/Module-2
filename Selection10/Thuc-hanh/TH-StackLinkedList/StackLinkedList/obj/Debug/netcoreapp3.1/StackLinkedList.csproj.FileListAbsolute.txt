@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\bin\Debug\netcoreapp3.1\StackLinkedList.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\bin\Debug\netcoreapp3.1\StackLinkedList.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\bin\Debug\netcoreapp3.1\StackLinkedList.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\bin\Debug\netcoreapp3.1\StackLinkedList.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\bin\Debug\netcoreapp3.1\StackLinkedList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\bin\Debug\netcoreapp3.1\StackLinkedList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\obj\Debug\netcoreapp3.1\StackLinkedList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\obj\Debug\netcoreapp3.1\StackLinkedList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\obj\Debug\netcoreapp3.1\StackLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\obj\Debug\netcoreapp3.1\StackLinkedList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\obj\Debug\netcoreapp3.1\StackLinkedList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Thuc-hanh\TH-StackLinkedList\StackLinkedList\obj\Debug\netcoreapp3.1\StackLinkedList.genruntimeconfig.cache

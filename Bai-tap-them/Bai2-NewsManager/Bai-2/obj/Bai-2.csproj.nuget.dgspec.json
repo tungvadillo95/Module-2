@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai-2\\Bai-2\\Bai-2.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai2-NewsManager\\Bai-2\\Bai-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai-2\\Bai-2\\Bai-2.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai2-NewsManager\\Bai-2\\Bai-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai-2\\Bai-2\\Bai-2.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai2-NewsManager\\Bai-2\\Bai-2.csproj",
         "projectName": "Bai-2",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai-2\\Bai-2\\Bai-2.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai2-NewsManager\\Bai-2\\Bai-2.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai-2\\Bai-2\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai2-NewsManager\\Bai-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

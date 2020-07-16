@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\bin\Debug\netcoreapp3.1\NextDay.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\bin\Debug\netcoreapp3.1\NextDay.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\bin\Debug\netcoreapp3.1\NextDay.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\bin\Debug\netcoreapp3.1\NextDay.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\bin\Debug\netcoreapp3.1\NextDay.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\bin\Debug\netcoreapp3.1\NextDay.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\obj\Debug\netcoreapp3.1\NextDay.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\obj\Debug\netcoreapp3.1\NextDay.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\obj\Debug\netcoreapp3.1\NextDay.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\obj\Debug\netcoreapp3.1\NextDay.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\obj\Debug\netcoreapp3.1\NextDay.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\obj\Debug\netcoreapp3.1\NextDay.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection8\Bai-tap\BT-NextDay\NextDay\obj\Debug\netcoreapp3.1\NextDay.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\bin\Debug\netcoreapp3.1\ListBasic-1.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\bin\Debug\netcoreapp3.1\ListBasic-1.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\bin\Debug\netcoreapp3.1\ListBasic-1.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\bin\Debug\netcoreapp3.1\ListBasic-1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\bin\Debug\netcoreapp3.1\ListBasic-1.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\bin\Debug\netcoreapp3.1\ListBasic-1.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\obj\Debug\netcoreapp3.1\ListBasic-1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\obj\Debug\netcoreapp3.1\ListBasic-1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\obj\Debug\netcoreapp3.1\ListBasic-1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\obj\Debug\netcoreapp3.1\ListBasic-1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\obj\Debug\netcoreapp3.1\ListBasic-1.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\obj\Debug\netcoreapp3.1\ListBasic-1.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Thuc-hanh\TH-ListBasic-1\ListBasic-1\obj\Debug\netcoreapp3.1\ListBasic-1.genruntimeconfig.cache

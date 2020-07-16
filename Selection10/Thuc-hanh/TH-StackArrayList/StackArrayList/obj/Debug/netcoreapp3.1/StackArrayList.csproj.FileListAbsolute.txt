@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\bin\Debug\netcoreapp3.1\StackArrayList.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\bin\Debug\netcoreapp3.1\StackArrayList.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\bin\Debug\netcoreapp3.1\StackArrayList.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\bin\Debug\netcoreapp3.1\StackArrayList.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\bin\Debug\netcoreapp3.1\StackArrayList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\bin\Debug\netcoreapp3.1\StackArrayList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\obj\Debug\netcoreapp3.1\StackArrayList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\obj\Debug\netcoreapp3.1\StackArrayList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\obj\Debug\netcoreapp3.1\StackArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\obj\Debug\netcoreapp3.1\StackArrayList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\obj\Debug\netcoreapp3.1\StackArrayList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-StackArrayList\StackArrayList\obj\Debug\netcoreapp3.1\StackArrayList.genruntimeconfig.cache

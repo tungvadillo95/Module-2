@@ -59,13 +59,13 @@ namespace PhoneManager
                         phoneBook.Sort();
                         break;
                     case 0:
+                        Console.WriteLine("Exit...");
                         Environment.Exit(0);
                         break;
                     default:
                         Console.WriteLine("No choice!");
                         break;
                 }
-                Console.ReadKey();
             }
 
             //Console.Write("Enter name: ");

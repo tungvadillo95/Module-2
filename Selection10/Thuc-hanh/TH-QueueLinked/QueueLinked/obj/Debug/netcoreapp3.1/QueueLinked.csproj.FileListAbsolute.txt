@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\bin\Debug\netcoreapp3.1\QueueLinked.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\bin\Debug\netcoreapp3.1\QueueLinked.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\bin\Debug\netcoreapp3.1\QueueLinked.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\bin\Debug\netcoreapp3.1\QueueLinked.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\bin\Debug\netcoreapp3.1\QueueLinked.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\bin\Debug\netcoreapp3.1\QueueLinked.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\obj\Debug\netcoreapp3.1\QueueLinked.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\obj\Debug\netcoreapp3.1\QueueLinked.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\obj\Debug\netcoreapp3.1\QueueLinked.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\obj\Debug\netcoreapp3.1\QueueLinked.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\obj\Debug\netcoreapp3.1\QueueLinked.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\obj\Debug\netcoreapp3.1\QueueLinked.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection9\Bai-tap\BT-QueueLinked\QueueLinked\obj\Debug\netcoreapp3.1\QueueLinked.genruntimeconfig.cache
