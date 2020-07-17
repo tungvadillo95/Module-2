@@ -18,7 +18,7 @@ namespace Collection
         public void Update(int id, string new_Content) 
         {
             int pos = FindID(id);
-            if (pos >= 0) 
+            if (pos > 0) 
             {
                 Posts[pos].Content = new_Content;
             }
@@ -44,9 +44,9 @@ namespace Collection
         {
             if(Posts.Count != 0)
             {
-                for (int i = 0; i < Posts.Count; i++)
+                foreach(var temp in Posts.Keys)
                 {
-                    Posts[i].Display();
+                    Posts[temp].Display();
                 }
             }
             else
@@ -54,38 +54,34 @@ namespace Collection
                 Console.WriteLine("Posts Empty! \"Enter\" to continue...");
                 Console.ReadKey();
             }
-            //for (int i = 0; i < Posts.Count; i++)
-            //{
-            //    Posts[i].Display();
-            //}
         }
         public void FindTitle(string title)
         {
-            for (int i = 0; i < Posts.Count; i++)
+            foreach (var temp in Posts.Keys)
             {
-                if (Posts[i].Title == title)
+                if (Posts[temp].Title == title)
                 {
-                    Posts[i].Display();
+                    Posts[temp].Display();
                 }
             }
         }
         public void FindAuthor(string author)
         {
-            for (int i = 0; i < Posts.Count; i++)
+            foreach (var temp in Posts.Keys)
             {
-                if (Posts[i].Author == author)
+                if (Posts[temp].Author == author)
                 {
-                    Posts[i].Display();
+                    Posts[temp].Display();
                 }
             }
         }
         public int FindID(int id)
         {
-            for(int i=0; i < Posts.Count; i++)
+            foreach (var temp in Posts.Keys)
             {
-                if(Posts[i].ID == id)
+                if (Posts[temp].ID == id)
                 {
-                    return i;
+                    return id;
                 }
             }
             return -1;

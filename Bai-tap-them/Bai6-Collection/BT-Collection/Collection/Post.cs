@@ -11,9 +11,9 @@ namespace Collection
         public string Content { get; set; }
         public string Author { get; set; }
         public float AverageRate { get; private set; }
-        public static int COUNT = 3;
-        public int MINRATING = 1;
-        public int MAXRATING = 5;
+        public const int COUNT = 3;
+        public const int MINRATING = 1;
+        public const int MAXRATING = 5;
         public int[] RateList = new int[COUNT];
         public void CalculatorRate()
         {

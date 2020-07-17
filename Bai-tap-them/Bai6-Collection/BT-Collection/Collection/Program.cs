@@ -39,43 +39,10 @@ namespace Collection
                         forum.Show();
                         break;
                     case 5:
-                        byte choice_search;
-                        Console.WriteLine("Search...");
-                        Console.WriteLine("1. Search by Title");
-                        Console.WriteLine("2. Search by Author");
-                        choice_search = byte.Parse(Console.ReadLine());
-                        switch (choice_search)
-                        {
-                            case 1:
-                                Console.Write("Enter Title search: ");
-                                string title = Console.ReadLine();
-                                Console.WriteLine("Result...");
-                                forum.FindTitle(title);
-                                break;
-                            case 2:
-                                Console.Write("Enter Author search: ");
-                                string author = Console.ReadLine();
-                                Console.WriteLine("Result...");
-                                forum.FindAuthor(author);
-                                break;
-                            default:
-                                Console.WriteLine("No choice!");
-                                break;
-                        }
+                        SearchTitleOrAuthor();
                         break;
                     case 6:
-                        Console.WriteLine("Rating by ID...");
-                        int id = GetID();
-                        int index = forum.FindID(id);
-                        if (index == -1)
-                         {
-                            Console.WriteLine("Invalid Post!");
-                         }
-                        else
-                        {
-                            Console.WriteLine("Result...");
-                            forum.Posts[index].Display();   
-                        }
+                        RatingByID();
                         break;
                     case 7:
                         Console.WriteLine("Exit...");
@@ -100,14 +67,13 @@ namespace Collection
             {
                 Console.WriteLine($"Enter vote rate {i+1}: ");
                 string temp = Console.ReadLine();
-                while (!Int32.TryParse(temp, out post.RateList[i]) || (post.RateList[i] < post.MINRATING || post.RateList[i] > post.MAXRATING))
+                while (!Int32.TryParse(temp, out post.RateList[i]) || (post.RateList[i] < Post.MINRATING || post.RateList[i] > Post.MAXRATING))
                 {
                     Console.Write($"Enter again vote rate {i + 1}:");
                     temp = Console.ReadLine();
                 }
             }
-            post.ID = newID;
-            newID++;
+            post.ID = ++newID;
             forum.AddPost(post);
         }
         public static void UpdatePost()
@@ -132,6 +98,47 @@ namespace Collection
                 id = int.Parse(Console.ReadLine());
             }
             return id;
+        }
+        public static void SearchTitleOrAuthor()
+        {
+            byte choice_search;
+            Console.WriteLine("Search...");
+            Console.WriteLine("1. Search by Title");
+            Console.WriteLine("2. Search by Author");
+            choice_search = byte.Parse(Console.ReadLine());
+            switch (choice_search)
+            {
+                case 1:
+                    Console.Write("Enter Title search: ");
+                    string title = Console.ReadLine();
+                    Console.WriteLine("Result...");
+                    forum.FindTitle(title);
+                    break;
+                case 2:
+                    Console.Write("Enter Author search: ");
+                    string author = Console.ReadLine();
+                    Console.WriteLine("Result...");
+                    forum.FindAuthor(author);
+                    break;
+                default:
+                    Console.WriteLine("No choice!");
+                    break;
+            }
+        }
+        public static void RatingByID()
+        {
+            Console.WriteLine("Rating by ID...");
+            int id = GetID();
+            int index = forum.FindID(id);
+            if (index == -1)
+            {
+                Console.WriteLine("Invalid Post!");
+            }
+            else
+            {
+                Console.WriteLine("Result...");
+                forum.Posts[index].Display();
+            }
         }
     }
 }
