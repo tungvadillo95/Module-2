@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\bin\Debug\netcoreapp3.1\Bai-1.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\bin\Debug\netcoreapp3.1\Bai-1.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\bin\Debug\netcoreapp3.1\Bai-1.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\bin\Debug\netcoreapp3.1\Bai-1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\bin\Debug\netcoreapp3.1\Bai-1.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\bin\Debug\netcoreapp3.1\Bai-1.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\obj\Debug\netcoreapp3.1\Bai-1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\obj\Debug\netcoreapp3.1\Bai-1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\obj\Debug\netcoreapp3.1\Bai-1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\obj\Debug\netcoreapp3.1\Bai-1.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\obj\Debug\netcoreapp3.1\Bai-1.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\obj\Debug\netcoreapp3.1\Bai-1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai7-ArrayMethod\ArrayMethod\obj\Debug\netcoreapp3.1\Bai-1.csprojAssemblyReference.cache
