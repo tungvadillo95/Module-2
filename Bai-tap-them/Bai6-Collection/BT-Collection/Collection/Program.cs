@@ -93,6 +93,7 @@ namespace Collection
         {
             byte choice_search;
             Console.WriteLine("Search...");
+            Console.WriteLine("Enter you choice!");
             Console.WriteLine("1. Search by Title");
             Console.WriteLine("2. Search by Author");
             choice_search = byte.Parse(Console.ReadLine());

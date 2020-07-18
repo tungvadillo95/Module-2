@@ -59,9 +59,13 @@ namespace Collection
         {
             foreach (var temp in Posts.Keys)
             {
-                if (Posts[temp].Title == title)
+                if (Posts[temp].Title.ToUpper() == title.ToUpper())
                 {
                     Posts[temp].Display();
+                }
+                else
+                {
+                    Console.WriteLine("Not Found!");
                 }
             }
         }
@@ -69,9 +73,13 @@ namespace Collection
         {
             foreach (var temp in Posts.Keys)
             {
-                if (Posts[temp].Author == author)
+                if (Posts[temp].Author.ToUpper() == author.ToUpper())
                 {
                     Posts[temp].Display();
+                }
+                else
+                {
+                    Console.WriteLine("Not Found!");
                 }
             }
         }
