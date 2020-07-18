@@ -19,7 +19,7 @@ namespace Bai_3
             PrintMatrix(matrix1);
             Console.WriteLine($"Displays a matrix of values that are multiples of {MULTIPLE_OF}");
             PrintMatrixMultiples(matrix1);
-            Console.WriteLine("Create and Print Matrix A(swaps rows of old matrix columns)...");
+            Console.WriteLine("Create and Print Matrix A(swaps rows into columns of old matrix)...");
             int[,] matrixA = SwapRowColumn(matrix1);
             PrintMatrix(matrixA);
         }
