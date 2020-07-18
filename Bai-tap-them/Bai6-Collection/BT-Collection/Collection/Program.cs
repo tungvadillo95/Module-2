@@ -63,16 +63,6 @@ namespace Collection
             post.Author = Console.ReadLine();
             Console.Write("Content: ");
             post.Content = Console.ReadLine();
-            for(int i=0; i < post.RateList.Length; i++)
-            {
-                Console.WriteLine($"Enter vote rate {i+1}: ");
-                string temp = Console.ReadLine();
-                while (!Int32.TryParse(temp, out post.RateList[i]) || (post.RateList[i] < Post.MINRATING || post.RateList[i] > Post.MAXRATING))
-                {
-                    Console.Write($"Enter again vote rate {i + 1}:");
-                    temp = Console.ReadLine();
-                }
-            }
             post.ID = ++newID;
             forum.AddPost(post);
         }
@@ -94,7 +84,7 @@ namespace Collection
             int id = int.Parse(Console.ReadLine());
             while (id < 0)
             {
-                Console.Write($"Enter again ID:");
+                Console.Write("Enter again ID:");
                 id = int.Parse(Console.ReadLine());
             }
             return id;
@@ -136,9 +126,29 @@ namespace Collection
             }
             else
             {
-                Console.WriteLine("Result...");
+                int rate = InputRating();
+                forum.Posts[index].RateList.Add(rate);
+                Console.Write("Result: ");
                 forum.Posts[index].Display();
             }
+        }
+        public static int InputRating()
+        {
+            string number;
+            int rate;
+            Console.Write("Enter rate: ");
+            number = Console.ReadLine();
+            while(!IsRating(number,out rate))
+            {
+                Console.Write("Enter again rate: ");
+                number = Console.ReadLine();
+            }
+            return rate;
+        }
+        public static bool IsRating(string number, out int rate)
+        {
+            bool isRate = (Int32.TryParse(number, out rate) && rate > 0 && rate <= 5);
+            return isRate;
         }
     }
 }

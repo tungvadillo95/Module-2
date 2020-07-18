@@ -11,10 +11,9 @@ namespace Collection
         public string Content { get; set; }
         public string Author { get; set; }
         public float AverageRate { get; private set; }
-        public const int COUNT = 3;
         public const int MINRATING = 1;
         public const int MAXRATING = 5;
-        public int[] RateList = new int[COUNT];
+        public List<int> RateList = new List<int>();
         public void CalculatorRate()
         {
             float total = 0;
@@ -22,12 +21,15 @@ namespace Collection
             {
                 total += item;
             }
-            AverageRate =(float)Math.Round(total / RateList.Length, 1);
+            if (RateList.Count != 0)
+            {
+                AverageRate = (float)Math.Round(total / RateList.Count, 1);
+            }
         }
         public void Display()
         {
             CalculatorRate();
-            Console.WriteLine($"ID: {ID}, Title: {Title}, Content: {Content}, Author: {Author}, Count: {COUNT}, AverageRate: {AverageRate}");
+            Console.WriteLine($"ID: {ID}, Title: {Title}, Content: {Content}, Author: {Author}, Count: {RateList.Count}, AverageRate: {AverageRate}");
         }
     }
 }
