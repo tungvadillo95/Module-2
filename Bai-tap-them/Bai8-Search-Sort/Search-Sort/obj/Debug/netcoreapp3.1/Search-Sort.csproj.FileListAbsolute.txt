@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\bin\Debug\netcoreapp3.1\Search-Sort.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\bin\Debug\netcoreapp3.1\Search-Sort.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\bin\Debug\netcoreapp3.1\Search-Sort.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\bin\Debug\netcoreapp3.1\Search-Sort.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\bin\Debug\netcoreapp3.1\Search-Sort.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\bin\Debug\netcoreapp3.1\Search-Sort.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\obj\Debug\netcoreapp3.1\Search-Sort.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\obj\Debug\netcoreapp3.1\Search-Sort.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\obj\Debug\netcoreapp3.1\Search-Sort.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\obj\Debug\netcoreapp3.1\Search-Sort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\obj\Debug\netcoreapp3.1\Search-Sort.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\obj\Debug\netcoreapp3.1\Search-Sort.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai8-Search-Sort\Search-Sort\obj\Debug\netcoreapp3.1\Search-Sort.genruntimeconfig.cache
