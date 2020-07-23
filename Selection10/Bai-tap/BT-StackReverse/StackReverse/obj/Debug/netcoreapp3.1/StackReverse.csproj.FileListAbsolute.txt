@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.genruntimeconfig.cache

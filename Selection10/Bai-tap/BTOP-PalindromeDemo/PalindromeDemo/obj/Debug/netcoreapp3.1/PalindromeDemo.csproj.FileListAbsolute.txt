@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\bin\Debug\netcoreapp3.1\PalindromeDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\bin\Debug\netcoreapp3.1\PalindromeDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\bin\Debug\netcoreapp3.1\PalindromeDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\bin\Debug\netcoreapp3.1\PalindromeDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\bin\Debug\netcoreapp3.1\PalindromeDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\bin\Debug\netcoreapp3.1\PalindromeDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\obj\Debug\netcoreapp3.1\PalindromeDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\obj\Debug\netcoreapp3.1\PalindromeDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\obj\Debug\netcoreapp3.1\PalindromeDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\obj\Debug\netcoreapp3.1\PalindromeDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\obj\Debug\netcoreapp3.1\PalindromeDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-PalindromeDemo\PalindromeDemo\obj\Debug\netcoreapp3.1\PalindromeDemo.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\bin\Debug\netcoreapp3.1\BinarySearchDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-BinarySearchDemo\BinarySearchDemo\obj\Debug\netcoreapp3.1\BinarySearchDemo.genruntimeconfig.cache

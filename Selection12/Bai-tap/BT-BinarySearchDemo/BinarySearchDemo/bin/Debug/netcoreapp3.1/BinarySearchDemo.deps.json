@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BinarySearchDemo/1.0.0": {
+        "runtime": {
+          "BinarySearchDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySearchDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

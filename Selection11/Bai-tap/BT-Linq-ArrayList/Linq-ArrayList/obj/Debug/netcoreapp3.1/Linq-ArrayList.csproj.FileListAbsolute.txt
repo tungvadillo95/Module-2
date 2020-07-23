@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\bin\Debug\netcoreapp3.1\Linq-ArrayList.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\bin\Debug\netcoreapp3.1\Linq-ArrayList.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\bin\Debug\netcoreapp3.1\Linq-ArrayList.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\bin\Debug\netcoreapp3.1\Linq-ArrayList.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\bin\Debug\netcoreapp3.1\Linq-ArrayList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\bin\Debug\netcoreapp3.1\Linq-ArrayList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\obj\Debug\netcoreapp3.1\Linq-ArrayList.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\obj\Debug\netcoreapp3.1\Linq-ArrayList.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\obj\Debug\netcoreapp3.1\Linq-ArrayList.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\obj\Debug\netcoreapp3.1\Linq-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\obj\Debug\netcoreapp3.1\Linq-ArrayList.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\obj\Debug\netcoreapp3.1\Linq-ArrayList.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-Linq-ArrayList\Linq-ArrayList\obj\Debug\netcoreapp3.1\Linq-ArrayList.genruntimeconfig.cache

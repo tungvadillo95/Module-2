@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Bai-tap\BT-GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache

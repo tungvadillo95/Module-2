@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\bin\Debug\netcoreapp3.1\FormatExceptionDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\bin\Debug\netcoreapp3.1\FormatExceptionDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\bin\Debug\netcoreapp3.1\FormatExceptionDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\bin\Debug\netcoreapp3.1\FormatExceptionDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\bin\Debug\netcoreapp3.1\FormatExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\bin\Debug\netcoreapp3.1\FormatExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\obj\Debug\netcoreapp3.1\FormatExceptionDemo.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\obj\Debug\netcoreapp3.1\FormatExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\obj\Debug\netcoreapp3.1\FormatExceptionDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\obj\Debug\netcoreapp3.1\FormatExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\obj\Debug\netcoreapp3.1\FormatExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\obj\Debug\netcoreapp3.1\FormatExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FormatException\FormatExceptionDemo\obj\Debug\netcoreapp3.1\FormatExceptionDemo.genruntimeconfig.cache

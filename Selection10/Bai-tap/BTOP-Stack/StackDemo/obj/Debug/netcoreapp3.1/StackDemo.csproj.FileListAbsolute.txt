@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\bin\Debug\netcoreapp3.1\StackDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-Stack\StackDemo\obj\Debug\netcoreapp3.1\StackDemo.genruntimeconfig.cache

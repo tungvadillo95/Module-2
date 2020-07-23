@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\bin\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\bin\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\bin\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\bin\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\bin\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\bin\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\obj\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\obj\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\obj\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\obj\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\obj\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\obj\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-InvalidOperationException\InvalidOperationExceptionDemo\obj\Debug\netcoreapp3.1\InvalidOperationExceptionDemo.csprojAssemblyReference.cache

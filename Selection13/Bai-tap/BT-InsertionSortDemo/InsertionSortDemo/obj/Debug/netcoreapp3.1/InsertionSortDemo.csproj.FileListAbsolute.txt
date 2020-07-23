@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\bin\Debug\netcoreapp3.1\InsertionSortDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\bin\Debug\netcoreapp3.1\InsertionSortDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\bin\Debug\netcoreapp3.1\InsertionSortDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\bin\Debug\netcoreapp3.1\InsertionSortDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\bin\Debug\netcoreapp3.1\InsertionSortDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\bin\Debug\netcoreapp3.1\InsertionSortDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\obj\Debug\netcoreapp3.1\InsertionSortDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\obj\Debug\netcoreapp3.1\InsertionSortDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\obj\Debug\netcoreapp3.1\InsertionSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\obj\Debug\netcoreapp3.1\InsertionSortDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\obj\Debug\netcoreapp3.1\InsertionSortDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Bai-tap\BT-InsertionSortDemo\InsertionSortDemo\obj\Debug\netcoreapp3.1\InsertionSortDemo.genruntimeconfig.cache

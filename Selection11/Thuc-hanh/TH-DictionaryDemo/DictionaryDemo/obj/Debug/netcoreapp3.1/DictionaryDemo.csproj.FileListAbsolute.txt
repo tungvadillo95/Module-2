@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection11\Thuc-hanh\TH-DictionaryDemo\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.genruntimeconfig.cache

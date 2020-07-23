@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\netcoreapp3.1\IndexOutOfRangeException.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\netcoreapp3.1\IndexOutOfRangeException.genruntimeconfig.cache

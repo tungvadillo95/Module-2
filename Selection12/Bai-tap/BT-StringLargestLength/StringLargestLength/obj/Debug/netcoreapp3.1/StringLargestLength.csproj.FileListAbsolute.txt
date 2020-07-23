@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\bin\Debug\netcoreapp3.1\StringLargestLength.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\bin\Debug\netcoreapp3.1\StringLargestLength.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\bin\Debug\netcoreapp3.1\StringLargestLength.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\bin\Debug\netcoreapp3.1\StringLargestLength.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\bin\Debug\netcoreapp3.1\StringLargestLength.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\bin\Debug\netcoreapp3.1\StringLargestLength.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\obj\Debug\netcoreapp3.1\StringLargestLength.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\obj\Debug\netcoreapp3.1\StringLargestLength.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\obj\Debug\netcoreapp3.1\StringLargestLength.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\obj\Debug\netcoreapp3.1\StringLargestLength.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\obj\Debug\netcoreapp3.1\StringLargestLength.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\obj\Debug\netcoreapp3.1\StringLargestLength.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringLargestLength\StringLargestLength\obj\Debug\netcoreapp3.1\StringLargestLength.genruntimeconfig.cache

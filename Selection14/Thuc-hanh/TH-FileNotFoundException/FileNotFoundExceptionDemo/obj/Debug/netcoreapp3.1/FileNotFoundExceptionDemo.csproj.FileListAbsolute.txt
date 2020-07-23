@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\bin\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\bin\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\bin\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\bin\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\bin\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\bin\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\obj\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\obj\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\obj\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\obj\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\obj\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-FileNotFoundException\FileNotFoundExceptionDemo\obj\Debug\netcoreapp3.1\FileNotFoundExceptionDemo.genruntimeconfig.cache

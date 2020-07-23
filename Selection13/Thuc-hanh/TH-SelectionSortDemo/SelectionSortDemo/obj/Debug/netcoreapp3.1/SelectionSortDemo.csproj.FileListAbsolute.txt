@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\bin\Debug\netcoreapp3.1\SelectionSortDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\bin\Debug\netcoreapp3.1\SelectionSortDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\bin\Debug\netcoreapp3.1\SelectionSortDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\bin\Debug\netcoreapp3.1\SelectionSortDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\bin\Debug\netcoreapp3.1\SelectionSortDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\bin\Debug\netcoreapp3.1\SelectionSortDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\obj\Debug\netcoreapp3.1\SelectionSortDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\obj\Debug\netcoreapp3.1\SelectionSortDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\obj\Debug\netcoreapp3.1\SelectionSortDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\obj\Debug\netcoreapp3.1\SelectionSortDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\obj\Debug\netcoreapp3.1\SelectionSortDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection13\Thuc-hanh\TH-SelectionSortDemo\SelectionSortDemo\obj\Debug\netcoreapp3.1\SelectionSortDemo.genruntimeconfig.cache

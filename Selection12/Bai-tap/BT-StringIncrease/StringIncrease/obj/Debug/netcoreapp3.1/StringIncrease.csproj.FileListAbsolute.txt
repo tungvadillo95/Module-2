@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\bin\Debug\netcoreapp3.1\StringIncrease.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\bin\Debug\netcoreapp3.1\StringIncrease.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\bin\Debug\netcoreapp3.1\StringIncrease.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\bin\Debug\netcoreapp3.1\StringIncrease.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\bin\Debug\netcoreapp3.1\StringIncrease.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\bin\Debug\netcoreapp3.1\StringIncrease.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\obj\Debug\netcoreapp3.1\StringIncrease.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\obj\Debug\netcoreapp3.1\StringIncrease.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\obj\Debug\netcoreapp3.1\StringIncrease.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\obj\Debug\netcoreapp3.1\StringIncrease.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\obj\Debug\netcoreapp3.1\StringIncrease.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\obj\Debug\netcoreapp3.1\StringIncrease.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Bai-tap\BT-StringIncrease\StringIncrease\obj\Debug\netcoreapp3.1\StringIncrease.csprojAssemblyReference.cache

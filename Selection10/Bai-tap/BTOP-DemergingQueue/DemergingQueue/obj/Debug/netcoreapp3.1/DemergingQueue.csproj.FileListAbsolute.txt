@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\bin\Debug\netcoreapp3.1\DemergingQueue.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\bin\Debug\netcoreapp3.1\DemergingQueue.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\bin\Debug\netcoreapp3.1\DemergingQueue.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\bin\Debug\netcoreapp3.1\DemergingQueue.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\bin\Debug\netcoreapp3.1\DemergingQueue.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\bin\Debug\netcoreapp3.1\DemergingQueue.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\obj\Debug\netcoreapp3.1\DemergingQueue.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\obj\Debug\netcoreapp3.1\DemergingQueue.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\obj\Debug\netcoreapp3.1\DemergingQueue.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\obj\Debug\netcoreapp3.1\DemergingQueue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\obj\Debug\netcoreapp3.1\DemergingQueue.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\obj\Debug\netcoreapp3.1\DemergingQueue.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BTOP-DemergingQueue\DemergingQueue\obj\Debug\netcoreapp3.1\DemergingQueue.genruntimeconfig.cache

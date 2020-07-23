@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\bin\Debug\netcoreapp3.1\AlgorithmComplexityTest.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection12\Thuc-hanh\TH-AlgorithmComplexityTest\AlgorithmComplexityTest\obj\Debug\netcoreapp3.1\AlgorithmComplexityTest.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Thuc-hanh\TH-DivideByZeroException\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.genruntimeconfig.cache

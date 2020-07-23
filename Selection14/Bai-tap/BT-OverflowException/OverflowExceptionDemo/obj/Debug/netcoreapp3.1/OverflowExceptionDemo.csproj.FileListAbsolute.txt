@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\bin\Debug\netcoreapp3.1\OverflowExceptionDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\bin\Debug\netcoreapp3.1\OverflowExceptionDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\bin\Debug\netcoreapp3.1\OverflowExceptionDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\bin\Debug\netcoreapp3.1\OverflowExceptionDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\bin\Debug\netcoreapp3.1\OverflowExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\bin\Debug\netcoreapp3.1\OverflowExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\obj\Debug\netcoreapp3.1\OverflowExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\obj\Debug\netcoreapp3.1\OverflowExceptionDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\obj\Debug\netcoreapp3.1\OverflowExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\obj\Debug\netcoreapp3.1\OverflowExceptionDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\obj\Debug\netcoreapp3.1\OverflowExceptionDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection14\Bai-tap\BT-OverflowException\OverflowExceptionDemo\obj\Debug\netcoreapp3.1\OverflowExceptionDemo.genruntimeconfig.cache
