@@ -1,16 +1,14 @@
 File Output...........
-Line 1 : 6 6 2 6 1 5 7 5 5 4 
-Line 2 : 6 4 6 5 4 8 3 1 5 2 
-Line 3 : 7 7 4 6 5 1 3 8 2 2 
-Line 4 : 8 2 7 6 8 1 6 5 6 4 
-Line 5 : 5 8 6 4 4 5 2 4 3 8 
-Sum Matrix: 238
-The matrix have 22 prime.
-The matrix have 20 odd.
-Total matrix boundary value: 125
+Line 1 : 3 9 2 6 1
+Line 2 : 5 4 6 5 4
+Line 3 : 7 7 4 6 5
+Line 4 : 8 9 7 6 8
+Sum Matrix: 112
+The matrix have 8 prime.
+The matrix have 10 odd.
+Total matrix boundary value: 80
 New Matrix Mutiply 3
-18	18	6	18	3	15	21	15	15	12	
-18	12	18	15	12	24	9	3	15	6	
-21	21	12	18	15	3	9	24	6	6	
-24	6	21	18	24	3	18	15	18	12	
-15	24	18	12	12	15	6	12	9	24	
+9	27	6	18	3	
+15	12	18	15	12	
+21	21	12	18	15	
+24	27	21	18	24	

@@ -6,30 +6,12 @@ namespace Bai1
 {
     class Program
     {
-        const int ROWS = 5;
-        const int COLUMNS = 10;
-        const int MIN = 1;
-        const int MAX = 9;
         const int VALUE_MUTIPLY = 3;
         static void Main(string[] args)
         {
             var path = @"C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai9-File\Bai1\Bai1\Data";
-            Directory.CreateDirectory(path);
             var fileInput = "InPut.txt";
             var fileOutput = "OutPut.txt";
-            using (StreamWriter sw = File.CreateText($@"{path}\{fileInput}"))
-            {
-                sw.WriteLine($"{ROWS} {COLUMNS}");
-                Random rnd = new Random();
-                for (int i = 0; i < ROWS; i++)
-                {
-                    for (int j = 0; j < COLUMNS; j++)
-                    {
-                        sw.Write($"{rnd.Next(MIN, MAX)} ");
-                    }
-                    sw.WriteLine();
-                }
-            }
             List<string> data = new List<string>();
             Console.WriteLine("File Input..........");
             using (StreamReader sr = File.OpenText($@"{path}\{fileInput}"))
@@ -174,7 +156,10 @@ namespace Bai1
         }
         static int[,] ConvertMatrix(List<string> data)
         {
-            int[,] matrix = new int[ROWS, COLUMNS];
+            string[] arrRowColumn = data[0].Split(" ");
+            int row = int.Parse(arrRowColumn[0]);
+            int column = int.Parse(arrRowColumn[1]);
+            int[,] matrix = new int[row, column];
             int index_Row_Matrix = 0;
             for (int i = 1; i < data.Count; i++)
             {
