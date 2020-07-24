@@ -12,6 +12,7 @@ namespace Bai2
         static void Main(string[] args)
         {
             int row, column;
+            Console.WriteLine("Generate Matrix.........");
             Console.Write("Enter row: ");
             string strRow = Console.ReadLine();
             while (!IsInterger(strRow, out row) || row <= 2)
@@ -65,7 +66,7 @@ namespace Bai2
                     sw.WriteLine($"Line {number} : {data[i]}");
                     number++;
                 }
-                int[,] newMatrix = ConvertMatrix(data,row,column);
+                int[,] newMatrix = ConvertMatrix(data);
                 int countEvent = CountEven(newMatrix);
                 sw.WriteLine($"The matrix have {countEvent} even.");
                 int countMutiplyValue = CountMutiplyValue(newMatrix, MUTIPLY_OF_VALUE);
@@ -106,9 +107,12 @@ namespace Bai2
             }
             return count;
         }
-        static int[,] ConvertMatrix(List<string> data,int row,int column)
+        static int[,] ConvertMatrix(List<string> data)
         {
-            int[,] matrix = new int[row, column];
+            string[] arrRowColumn = data[0].Split(" ");
+            int rowMatrix = int.Parse(arrRowColumn[0]);
+            int columnMatrix = int.Parse(arrRowColumn[1]);
+            int[,] matrix = new int[rowMatrix, columnMatrix];
             int index_Row_Matrix = 0;
             for (int i = 1; i < data.Count; i++)
             {
