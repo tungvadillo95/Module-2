@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\bin\Debug\netcoreapp3.1\ReadTextFile.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\bin\Debug\netcoreapp3.1\ReadTextFile.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\bin\Debug\netcoreapp3.1\ReadTextFile.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\bin\Debug\netcoreapp3.1\ReadTextFile.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\bin\Debug\netcoreapp3.1\ReadTextFile.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\bin\Debug\netcoreapp3.1\ReadTextFile.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\obj\Debug\netcoreapp3.1\ReadTextFile.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\obj\Debug\netcoreapp3.1\ReadTextFile.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\obj\Debug\netcoreapp3.1\ReadTextFile.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\obj\Debug\netcoreapp3.1\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\obj\Debug\netcoreapp3.1\ReadTextFile.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\obj\Debug\netcoreapp3.1\ReadTextFile.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadTextFile\ReadTextFile\obj\Debug\netcoreapp3.1\ReadTextFile.genruntimeconfig.cache

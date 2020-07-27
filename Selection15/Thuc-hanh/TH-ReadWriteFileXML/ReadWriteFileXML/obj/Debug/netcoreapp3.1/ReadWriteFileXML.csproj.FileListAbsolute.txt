@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\bin\Debug\netcoreapp3.1\ReadWriteFileXML.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\bin\Debug\netcoreapp3.1\ReadWriteFileXML.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\bin\Debug\netcoreapp3.1\ReadWriteFileXML.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\bin\Debug\netcoreapp3.1\ReadWriteFileXML.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\bin\Debug\netcoreapp3.1\ReadWriteFileXML.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\bin\Debug\netcoreapp3.1\ReadWriteFileXML.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\obj\Debug\netcoreapp3.1\ReadWriteFileXML.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\obj\Debug\netcoreapp3.1\ReadWriteFileXML.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\obj\Debug\netcoreapp3.1\ReadWriteFileXML.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\obj\Debug\netcoreapp3.1\ReadWriteFileXML.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\obj\Debug\netcoreapp3.1\ReadWriteFileXML.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\obj\Debug\netcoreapp3.1\ReadWriteFileXML.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-ReadWriteFileXML\ReadWriteFileXML\obj\Debug\netcoreapp3.1\ReadWriteFileXML.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\bin\Debug\netcoreapp3.1\ProductManagementBinary.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\bin\Debug\netcoreapp3.1\ProductManagementBinary.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\bin\Debug\netcoreapp3.1\ProductManagementBinary.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\bin\Debug\netcoreapp3.1\ProductManagementBinary.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\bin\Debug\netcoreapp3.1\ProductManagementBinary.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\bin\Debug\netcoreapp3.1\ProductManagementBinary.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\obj\Debug\netcoreapp3.1\ProductManagementBinary.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\obj\Debug\netcoreapp3.1\ProductManagementBinary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\obj\Debug\netcoreapp3.1\ProductManagementBinary.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\obj\Debug\netcoreapp3.1\ProductManagementBinary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\obj\Debug\netcoreapp3.1\ProductManagementBinary.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\obj\Debug\netcoreapp3.1\ProductManagementBinary.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ProductManagementBinary\ProductManagementBinary\obj\Debug\netcoreapp3.1\ProductManagementBinary.genruntimeconfig.cache

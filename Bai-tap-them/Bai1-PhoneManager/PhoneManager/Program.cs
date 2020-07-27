@@ -67,21 +67,6 @@ namespace PhoneManager
                         break;
                 }
             }
-
-            //Console.Write("Enter name: ");
-            //var name = Console.ReadLine();
-            //Console.Write("Enter phone number: ");
-            //var newPhone = Console.ReadLine();
-            //phoneBook.InsertPhone(name, newPhone);
-            //phoneBook.Show();
-
         }
-        //public void EnterInfo(ref string phone,string name)
-        //{
-        //    Console.Write("Enter name: ");
-        //    name = Console.ReadLine();
-        //    Console.Write("Enter phone number: ");
-        //    phone = Console.ReadLine();
-        //}
     }
 }

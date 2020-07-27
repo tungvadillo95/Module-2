@@ -1,0 +1,19 @@
+{
+  "ID": 1,
+  "Status": true,
+  "foods": [
+    {
+      "Name": "Coffe",
+      "Price": 12.0,
+      "Amount": 1,
+      "IntoMoney": 12.0
+    },
+    {
+      "Name": "Milk",
+      "Price": 10.0,
+      "Amount": 2,
+      "IntoMoney": 20.0
+    }
+  ],
+  "TotalMoney": 32.0
+}

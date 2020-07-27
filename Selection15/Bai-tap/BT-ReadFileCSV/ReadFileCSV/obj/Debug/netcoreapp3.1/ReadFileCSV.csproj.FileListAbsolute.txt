@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\bin\Debug\netcoreapp3.1\ReadFileCSV.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\bin\Debug\netcoreapp3.1\ReadFileCSV.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\bin\Debug\netcoreapp3.1\ReadFileCSV.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\bin\Debug\netcoreapp3.1\ReadFileCSV.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\bin\Debug\netcoreapp3.1\ReadFileCSV.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\bin\Debug\netcoreapp3.1\ReadFileCSV.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\obj\Debug\netcoreapp3.1\ReadFileCSV.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\obj\Debug\netcoreapp3.1\ReadFileCSV.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\obj\Debug\netcoreapp3.1\ReadFileCSV.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\obj\Debug\netcoreapp3.1\ReadFileCSV.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\obj\Debug\netcoreapp3.1\ReadFileCSV.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\obj\Debug\netcoreapp3.1\ReadFileCSV.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-ReadFileCSV\ReadFileCSV\obj\Debug\netcoreapp3.1\ReadFileCSV.genruntimeconfig.cache

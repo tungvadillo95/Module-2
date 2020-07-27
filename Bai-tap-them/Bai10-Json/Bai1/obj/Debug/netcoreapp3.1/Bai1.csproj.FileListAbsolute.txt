@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\bin\Debug\netcoreapp3.1\Bai1.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\bin\Debug\netcoreapp3.1\Bai1.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\bin\Debug\netcoreapp3.1\Bai1.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\bin\Debug\netcoreapp3.1\Bai1.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.CopyComplete

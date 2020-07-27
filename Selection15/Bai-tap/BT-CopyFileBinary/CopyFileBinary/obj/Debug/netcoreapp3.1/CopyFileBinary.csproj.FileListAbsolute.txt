@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\bin\Debug\netcoreapp3.1\CopyFileBinary.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\bin\Debug\netcoreapp3.1\CopyFileBinary.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\bin\Debug\netcoreapp3.1\CopyFileBinary.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\bin\Debug\netcoreapp3.1\CopyFileBinary.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\bin\Debug\netcoreapp3.1\CopyFileBinary.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\bin\Debug\netcoreapp3.1\CopyFileBinary.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\obj\Debug\netcoreapp3.1\CopyFileBinary.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\obj\Debug\netcoreapp3.1\CopyFileBinary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\obj\Debug\netcoreapp3.1\CopyFileBinary.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\obj\Debug\netcoreapp3.1\CopyFileBinary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\obj\Debug\netcoreapp3.1\CopyFileBinary.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\obj\Debug\netcoreapp3.1\CopyFileBinary.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileBinary\CopyFileBinary\obj\Debug\netcoreapp3.1\CopyFileBinary.genruntimeconfig.cache

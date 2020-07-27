@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iBfqYjSoIQmb1Ep//1tPLlDeDuyh1UQwp4jC1Q9pqJw/fEu5GKZ15omSpHlpoRlsTSOHNfWNJ0h37tdF0FqVtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\BT-CODEGYM\\Module-2\\Bai-tap-them\\Bai10-Json\\Bai3\\Bai3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

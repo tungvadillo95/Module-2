@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\bin\Debug\netcoreapp3.1\CircleQueue.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\bin\Debug\netcoreapp3.1\CircleQueue.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\bin\Debug\netcoreapp3.1\CircleQueue.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\bin\Debug\netcoreapp3.1\CircleQueue.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\bin\Debug\netcoreapp3.1\CircleQueue.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\bin\Debug\netcoreapp3.1\CircleQueue.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\obj\Debug\netcoreapp3.1\CircleQueue.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\obj\Debug\netcoreapp3.1\CircleQueue.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\obj\Debug\netcoreapp3.1\CircleQueue.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\obj\Debug\netcoreapp3.1\CircleQueue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\obj\Debug\netcoreapp3.1\CircleQueue.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\obj\Debug\netcoreapp3.1\CircleQueue.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection10\Bai-tap\BT-CircleQueue\CircleQueue\obj\Debug\netcoreapp3.1\CircleQueue.genruntimeconfig.cache

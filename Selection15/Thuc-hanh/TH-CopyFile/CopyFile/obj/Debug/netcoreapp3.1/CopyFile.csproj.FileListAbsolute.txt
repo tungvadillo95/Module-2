@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Thuc-hanh\TH-CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.genruntimeconfig.cache

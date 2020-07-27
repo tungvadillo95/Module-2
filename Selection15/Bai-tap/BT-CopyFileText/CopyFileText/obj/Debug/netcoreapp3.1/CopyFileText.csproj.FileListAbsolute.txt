@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\bin\Debug\netcoreapp3.1\CopyFileText.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\bin\Debug\netcoreapp3.1\CopyFileText.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\bin\Debug\netcoreapp3.1\CopyFileText.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\bin\Debug\netcoreapp3.1\CopyFileText.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\bin\Debug\netcoreapp3.1\CopyFileText.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\bin\Debug\netcoreapp3.1\CopyFileText.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\obj\Debug\netcoreapp3.1\CopyFileText.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\obj\Debug\netcoreapp3.1\CopyFileText.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\obj\Debug\netcoreapp3.1\CopyFileText.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\obj\Debug\netcoreapp3.1\CopyFileText.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\obj\Debug\netcoreapp3.1\CopyFileText.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\obj\Debug\netcoreapp3.1\CopyFileText.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection15\Bai-tap\BT-CopyFileText\CopyFileText\obj\Debug\netcoreapp3.1\CopyFileText.genruntimeconfig.cache
