@@ -39,6 +39,8 @@ namespace Bai3
                 Console.WriteLine("****....BOOK ODER....****");
                 Console.WriteLine("1. Oder food and drink.");
                 Console.WriteLine("2. Pay.");
+                Console.WriteLine("3. Show status all table.");
+                Console.WriteLine("4. Show table.");
                 Console.WriteLine("0. Exit.");
                 Console.Write("Enter you choice: ");
                 choice = Console.ReadLine();
@@ -60,6 +62,22 @@ namespace Bai3
                         Console.WriteLine("...Pay...");
                         Pay();
                         break;
+                    case "3":
+                        Console.WriteLine("...Show status all table...");
+                        ShowStatusAll();
+                        break;
+                    case "4":
+                        Console.WriteLine("...Show table...");
+                        Console.Write("Enter ID table: ");
+                        string id_Show = Console.ReadLine();
+                        int idShow;
+                        while (!IsInteger(id_Show, out idShow) || idShow <= 0 || idShow > NUMBER_OF_TABLE)
+                        {
+                            Console.Write("ID does not exist!. Enter again ID table: ");
+                            number1 = Console.ReadLine();
+                        }
+                        ShowTable(idShow);
+                        break;
                     case "0":
                         Console.WriteLine("****....EXIT....****");
                         Environment.Exit(0);
@@ -68,6 +86,30 @@ namespace Bai3
                         Console.WriteLine("No choice!");
                         break;
                 }
+            }
+        }
+        static void ShowTable(int id)
+        {
+            foreach(var table in data.tables)
+            {
+                if (table.ID == id)
+                {
+                    Console.WriteLine($"ID: {table.ID}");
+                    Console.WriteLine($"Status: {table.Status}");
+                    Console.WriteLine("Name\t\tPrice\t\tAmount\t\tIntoMoney");
+                    foreach (var food in table.foods)
+                    {
+                        Console.WriteLine(food.ToString());
+                    }
+                    Console.WriteLine($"Total money: {table.TotalMoney}");
+                }
+            }
+        }
+        static void ShowStatusAll()
+        {
+            foreach (var table in data.tables)
+            {
+                Console.WriteLine($"Table ID{table.ID}: {(table.Status ? "Using" : "Not using")}");
             }
         }
         static void Pay()
