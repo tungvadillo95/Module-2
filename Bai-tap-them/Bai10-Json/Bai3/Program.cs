@@ -49,7 +49,7 @@ namespace Bai3
                         Console.Write("Enter ID table: ");
                         string number1 = Console.ReadLine();
                         int id;
-                        while (!IsID(number1, out id) || id <= 0 || id > NUMBER_OF_TABLE)
+                        while (!IsInteger(number1, out id) || id <= 0 || id > NUMBER_OF_TABLE)
                         {
                             Console.Write("ID does not exist!. Enter again ID table: ");
                             number1 = Console.ReadLine();
@@ -75,7 +75,7 @@ namespace Bai3
             Console.Write("Enter ID table: ");
             string number2 = Console.ReadLine();
             int idPay;
-            while (!IsID(number2, out idPay) || idPay <= 0 || idPay > NUMBER_OF_TABLE)
+            while (!IsInteger(number2, out idPay) || idPay <= 0 || idPay > NUMBER_OF_TABLE)
             {
                 Console.Write("ID does not exist!. Enter again ID table: ");
                 number2 = Console.ReadLine();
@@ -114,18 +114,16 @@ namespace Bai3
             }
             else
             {
-                var LOG_FILE_BILL = $"Bill_{idPay}_{DateTime.Now.ToString("ddMMyyyyhh")}.json";
+                var LOG_FILE_BILL = $"Bill_{idPay}_{DateTime.Now.ToString("dd_MM_yyyy_hh_mm")}.json";
                 using (StreamWriter sw = File.CreateText($@"{FILE_BILL_PATH}\{LOG_FILE_BILL}"))
                 {
                     var datum = JsonConvert.SerializeObject(billTable);
                     sw.Write(datum);
                 }
             }
-        }
-       
-        public static bool IsID(string number, out int id)
+        }        public static bool IsInteger(string number, out int value)
         {
-            return Int32.TryParse(number, out id);
+            return Int32.TryParse(number, out value);
         }
         static void OderFoodAndDrink(int id)
         {
@@ -150,8 +148,7 @@ namespace Bai3
                         switch (oder)
                         {
                             case "1":
-                                Console.Write("Amount: ");
-                                int amount1 = int.Parse(Console.ReadLine());
+                                int amount1 = GetAmount();
                                 Food food1 = new Food()
                                 {
                                     Name = "Coffe",
@@ -161,8 +158,7 @@ namespace Bai3
                                 table.foods.Add(food1);
                                 break;
                             case "2":
-                                Console.Write("Amount: ");
-                                int amount2 = int.Parse(Console.ReadLine());
+                                int amount2 = GetAmount();
                                 Food food2 = new Food()
                                 {
                                     Name = "Milk",
@@ -172,8 +168,7 @@ namespace Bai3
                                 table.foods.Add(food2);
                                 break;
                             case "3":
-                                Console.Write("Amount: ");
-                                int amount3 = int.Parse(Console.ReadLine());
+                                int amount3 = GetAmount();
                                 Food food3 = new Food()
                                 {
                                     Name = "Bread",
@@ -183,8 +178,7 @@ namespace Bai3
                                 table.foods.Add(food3);
                                 break;
                             case "4":
-                                Console.Write("Amount: ");
-                                int amount4 = int.Parse(Console.ReadLine());
+                                int amount4 = GetAmount();
                                 Food food4 = new Food()
                                 {
                                     Name = "Hamberger",
@@ -194,8 +188,7 @@ namespace Bai3
                                 table.foods.Add(food4);
                                 break;
                             case "5":
-                                Console.Write("Amount: ");
-                                int amount5 = int.Parse(Console.ReadLine());
+                                int amount5 = GetAmount();
                                 Food food5 = new Food()
                                 {
                                     Name = "Fruit",
@@ -215,6 +208,18 @@ namespace Bai3
                     }
                 }
             }
+        }
+        static int GetAmount()
+        {
+            Console.Write("Amount: ");
+            string number = Console.ReadLine();
+            int value;
+            while (!IsInteger(number, out value) || value <= 0)
+            {
+                Console.Write("The quantity is not valid!. Enter again amount: ");
+                number = Console.ReadLine();
+            }
+            return value;
         }
         static void SetTable(Table table)
         {
