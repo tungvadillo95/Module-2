@@ -50,7 +50,8 @@ namespace Bai11_Json_2
                 Console.WriteLine("****....ONLINE SHOPPING....****");
                 Console.WriteLine("1. Buy online product.");
                 Console.WriteLine("2. Show shopping cart.");
-                Console.WriteLine("3. Pay.");
+                Console.WriteLine("3. Edit shopping cart.");
+                Console.WriteLine("4. Pay.");
                 Console.WriteLine("0. Exit.");
                 Console.Write("Enter you choice: ");
                 choice = Console.ReadLine();
@@ -65,6 +66,10 @@ namespace Bai11_Json_2
                         ShowCart();
                         break;
                     case "3":
+                        Console.WriteLine("...Edit shopping cart...");
+                        EditShoppingCart();
+                        break;
+                    case "4":
                         Console.WriteLine("...Pay...");
                         Pay();
                         break;
@@ -73,10 +78,93 @@ namespace Bai11_Json_2
                         Environment.Exit(0);
                         break;
                     default:
+                        Console.Clear();
                         Console.WriteLine("No choice!");
                         break;
                 }
             }
+        }
+        static void EditShoppingCart()
+        {
+            ShowCart();
+            Console.WriteLine("1. Edit amount product");
+            Console.WriteLine("2. Remove product");
+            Console.WriteLine("0. Back");
+            Console.WriteLine("You choice: ");
+            string choiceEdit = Console.ReadLine();
+            switch (choiceEdit)
+            {
+                case "1":
+                    Console.WriteLine("Edit amount product");
+                    EditAmountProduct();
+                    break;
+                case "2":
+                    Console.WriteLine("Remove product");
+                    RemoveProduct();
+                    break;
+                case "0":
+                    StarServing();
+                    break;
+                default:
+                    Console.WriteLine("No choice!");
+                    ShowCart();
+                    break;
+            }
+        }
+        static void RemoveProduct()
+        {
+            int idEdit = GetIDEdit();
+            var productRemove = new Product();
+            foreach (var product in data.products)
+            {
+                if (product.ID == idEdit)
+                {
+                    productRemove = product;
+                }
+            }
+            data.products.Remove(productRemove);
+        }
+        static void EditAmountProduct()
+        {
+            int idEdit = GetIDEdit();
+            Console.WriteLine("Enter new amount: ");
+            string new_Amount = Console.ReadLine();
+            int newAmount;
+            while (!IsInteger(new_Amount, out newAmount) || newAmount <= 0 )
+            {
+                Console.WriteLine("Enter again new amount: ");
+                new_Amount = Console.ReadLine();
+            }
+            foreach (var product in data.products)
+            {
+                if (product.ID == idEdit)
+                {
+                    product.Amount = newAmount;
+                }
+            }
+        }
+        static int GetIDEdit()
+        {
+            Console.Write("Enter ID product edit: ");
+            string strID = Console.ReadLine();
+            int idEdit;
+            while (!IsInteger(strID, out idEdit) || idEdit <= 0 || !isIDInShoppingCart(idEdit))
+            {
+                Console.WriteLine("The ID does not exist in shopping cart!");
+                EditShoppingCart();
+            }
+            return idEdit;
+        }
+        static bool isIDInShoppingCart(int id)
+        {
+            foreach (var product in data.products)
+            {
+                if (product.ID == id)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
         static void Pay()
         {
@@ -127,6 +215,7 @@ namespace Bai11_Json_2
                 {
                     Console.WriteLine(product.ToString());
                 }
+            Console.WriteLine();
         }
         static void BuyProduct()
         {
@@ -169,31 +258,31 @@ namespace Bai11_Json_2
             }
         }
         static bool isID(int id)
+        {
+            foreach (var product in menuProduct)
             {
-                foreach (var product in menuProduct)
+                if (product.Key == id)
                 {
-                    if (product.Key == id)
-                    {
-                        return true;
-                    }
+                    return true;
                 }
-                return false;
             }
-            static int GetAmount()
-            {
-                Console.Write("Amount: ");
-                string number = Console.ReadLine();
-                int value;
-                while (!IsInteger(number, out value) || value <= 0)
-                {
-                    Console.Write("The quantity is not valid!. Enter again amount: ");
-                    number = Console.ReadLine();
-                }
-                return value;
-            }
-            static bool IsInteger(string number, out int value)
-            {
-                return Int32.TryParse(number, out value);
-            }
+            return false;
         }
+        static int GetAmount()
+        {
+            Console.Write("Amount: ");
+            string number = Console.ReadLine();
+            int value;
+            while (!IsInteger(number, out value) || value <= 0)
+            {
+                Console.Write("The quantity is not valid!. Enter again amount: ");
+                number = Console.ReadLine();
+            }
+            return value;
+        }
+        static bool IsInteger(string number, out int value)
+        {
+            return Int32.TryParse(number, out value);
+        }
+    }
 }

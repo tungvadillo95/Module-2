@@ -1,1 +1,32 @@
-{"products":[{"ID":5,"Name":"Fridge Panasonic","Manufacturer":"VN     ","Price":7000000.0,"Amount":2,"IntoMoney":14000000.0,"OtherDescriptions":"Empty"},{"ID":2,"Name":"Nokia 8.1       ","Manufacturer":"Finland","Price":3500000.0,"Amount":1,"IntoMoney":3500000.0,"OtherDescriptions":"Empty"},{"ID":1,"Name":"Iphone 10       ","Manufacturer":"USA    ","Price":9500000.0,"Amount":2,"IntoMoney":19000000.0,"OtherDescriptions":"Empty"}],"TotalMoney":36500000.0}
+{
+  "products": [
+    {
+      "ID": 3,
+      "Name": "TV Sony         ",
+      "Manufacturer": "Janpan ",
+      "Price": 1500000.0,
+      "Amount": 3,
+      "IntoMoney": 4500000.0,
+      "OtherDescriptions": "Empty"
+    },
+    {
+      "ID": 5,
+      "Name": "Fridge Panasonic",
+      "Manufacturer": "VN     ",
+      "Price": 7000000.0,
+      "Amount": 5,
+      "IntoMoney": 35000000.0,
+      "OtherDescriptions": "Empty"
+    },
+    {
+      "ID": 6,
+      "Name": "Fridge Toshiba  ",
+      "Manufacturer": "VN     ",
+      "Price": 9000000.0,
+      "Amount": 6,
+      "IntoMoney": 54000000.0,
+      "OtherDescriptions": "Empty"
+    }
+  ],
+  "TotalMoney": 93500000.0
+}
