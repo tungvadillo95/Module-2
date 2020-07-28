@@ -8,7 +8,7 @@ namespace Bai3
     public class Program
     {
         const int NUMBER_OF_TABLE = 5;
-        static Dictionary<string, double> menu = new Dictionary<string, double>();
+        static Dictionary<int, Food> menu = new Dictionary<int, Food>();
         const string FILE_PATH = @"C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai3\data";
         const string FILE_DATA = "Oder.json";
         const string FILE_BILL_PATH = @"C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai10-Json\Bai3\logs_bill";
@@ -18,18 +18,26 @@ namespace Bai3
         };
         static void Main(string[] args)
         {
-            GenerateMenu(menu);
+            GenerateMenu();
             GrenerateAllTable(data);
             StarServing();
         }
-        static void GenerateMenu(Dictionary<string, double> menu)
+        static void ListFoodMenu(int id,string name, double price)
         {
-            menu.Add("Coffe", 12);
-            menu.Add("Milk", 10);
-            menu.Add("Bread", 15);
-            menu.Add("Hamberger", 20);
-            menu.Add("Pizza", 25);
-            menu.Add("Fruit", 15);
+            Food food = new Food();
+            food.IDFood = id;
+            food.Name = name;
+            food.Price = price;
+            menu.Add(food.IDFood, food);
+        }
+        static void GenerateMenu()
+        {
+            ListFoodMenu(1, "Coffe", 12000);
+            ListFoodMenu(2, "Milk", 10000);
+            ListFoodMenu(3, "Bread", 15000);
+            ListFoodMenu(4, "Hamberger", 20000);
+            ListFoodMenu(5, "Pizza", 25000);
+            ListFoodMenu(6, "Fruit", 20000);
         }
         static void StarServing()
         {
@@ -50,13 +58,13 @@ namespace Bai3
                         Console.WriteLine("...Oder food and drink...");
                         Console.Write("Enter ID table: ");
                         string number1 = Console.ReadLine();
-                        int id;
-                        while (!IsInteger(number1, out id) || id <= 0 || id > NUMBER_OF_TABLE)
+                        int idTable;
+                        while (!IsInteger(number1, out idTable) || idTable <= 0 || idTable > NUMBER_OF_TABLE)
                         {
                             Console.Write("ID does not exist!. Enter again ID table: ");
                             number1 = Console.ReadLine();
                         }
-                        OderFoodAndDrink(id);
+                        OderFoodAndDrink(idTable);
                         break;
                     case "2":
                         Console.WriteLine("...Pay...");
@@ -167,14 +175,14 @@ namespace Bai3
         {
             return Int32.TryParse(number, out value);
         }
-        static void OderFoodAndDrink(int id)
+        static void OderFoodAndDrink(int idTable)
         {
             foreach (var table in data.tables)
             {
-                if (table.ID == id)
+                if (table.ID == idTable)
                 {
                     table.Status = true;
-                    string oder = "6";
+                    string oder = "7";
                     while (oder != "0")
                     {
                         WriteJson(data);
@@ -183,68 +191,34 @@ namespace Bai3
                         Console.WriteLine("2. Milk");
                         Console.WriteLine("3. Bread");
                         Console.WriteLine("4. Hamberger");
-                        Console.WriteLine("5. Fruit Juice");
+                        Console.WriteLine("5. Pizza");
+                        Console.WriteLine("6. Fruit");
                         Console.WriteLine("0. Back");
                         Console.Write("Oder: ");
                         oder = Console.ReadLine();
                         switch (oder)
                         {
-                            case "1":
-                                int amount1 = GetAmount();
-                                Food food1 = new Food()
-                                {
-                                    Name = "Coffe",
-                                    Price = GetPrice("Coffe"),
-                                    Amount = amount1
-                                };
-                                table.foods.Add(food1);
-                                break;
-                            case "2":
-                                int amount2 = GetAmount();
-                                Food food2 = new Food()
-                                {
-                                    Name = "Milk",
-                                    Price = GetPrice("Milk"),
-                                    Amount = amount2
-                                };
-                                table.foods.Add(food2);
-                                break;
-                            case "3":
-                                int amount3 = GetAmount();
-                                Food food3 = new Food()
-                                {
-                                    Name = "Bread",
-                                    Price = GetPrice("Bread"),
-                                    Amount = amount3
-                                };
-                                table.foods.Add(food3);
-                                break;
-                            case "4":
-                                int amount4 = GetAmount();
-                                Food food4 = new Food()
-                                {
-                                    Name = "Hamberger",
-                                    Price = GetPrice("Hamberger"),
-                                    Amount = amount4
-                                };
-                                table.foods.Add(food4);
-                                break;
-                            case "5":
-                                int amount5 = GetAmount();
-                                Food food5 = new Food()
-                                {
-                                    Name = "Fruit",
-                                    Price = GetPrice("Fruit"),
-                                    Amount = amount5
-                                };
-                                table.foods.Add(food5);
-                                break;
                             case "0":
                                 Console.WriteLine("Back...");
                                 StarServing();
                                 break;
                             default:
-                                Console.WriteLine("No choice!");
+                                int idFood;
+                                while (!IsInteger(oder, out idFood) || idFood <= 0 || idFood > menu.Count)
+                                {
+                                    Console.WriteLine("The selection does not exist!");
+                                    OderFoodAndDrink(idTable);
+                                }
+                                int amount = GetAmount();
+                                if (menu[idFood].Amount > 0)
+                                {
+                                    menu[idFood].Amount += amount;
+                                }
+                                else
+                                {
+                                    menu[idFood].Amount = amount;
+                                    table.foods.Add(menu[idFood]);
+                                }
                                 break;
                         }
                     }
@@ -275,17 +249,6 @@ namespace Bai3
                             Amount = 0
                         }
                     };
-        }
-        static double GetPrice(string name)
-        {
-            foreach (var item in menu.Keys)
-            {
-                if(item.ToUpper() == name.ToUpper())
-                {
-                    return menu[item];
-                }
-            }
-            return 0;
         }
         static void WriteJson(Data data)
         {
