@@ -171,7 +171,8 @@ namespace Bai3
                     sw.Write(datum);
                 }
             }
-        }        public static bool IsInteger(string number, out int value)
+        }        
+        public static bool IsInteger(string number, out int value)
         {
             return Int32.TryParse(number, out value);
         }

@@ -1,23 +1,23 @@
 {
   "students": [
     {
-      "DTB": 5.0,
-      "XepLoai": "Trung Binh",
-      "MaHS": 3,
-      "HoTen": "Tran Van Nam",
+      "DTB": 9.25,
+      "XepLoai": "Xuat sac",
+      "MaHS": 1,
+      "HoTen": "Nguyen Van An",
       "GioiTinh": "Nam",
       "MonHoc": [
         {
           "TenMon": "Toan",
-          "Diem": 5
+          "Diem": 9
         },
         {
           "TenMon": "Ly",
-          "Diem": 6
+          "Diem": 10
         },
         {
           "TenMon": "Hoa",
-          "Diem": 4
+          "Diem": 9
         }
       ]
     },
@@ -43,23 +43,23 @@
       ]
     },
     {
-      "DTB": 9.25,
-      "XepLoai": "Xuat sac",
-      "MaHS": 1,
-      "HoTen": "Nguyen Van An",
+      "DTB": 5.0,
+      "XepLoai": "Trung Binh",
+      "MaHS": 3,
+      "HoTen": "Tran Van Nam",
       "GioiTinh": "Nam",
       "MonHoc": [
         {
           "TenMon": "Toan",
-          "Diem": 9
+          "Diem": 5
         },
         {
           "TenMon": "Ly",
-          "Diem": 10
+          "Diem": 6
         },
         {
           "TenMon": "Hoa",
-          "Diem": 9
+          "Diem": 4
         }
       ]
     }

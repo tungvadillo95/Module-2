@@ -43,8 +43,8 @@ namespace Bai2
             response.students.Sort(delegate(ResStudent x, ResStudent y)
             {
                 if (x.DTB == y.DTB) return 0;
-                else if (x.DTB < y.DTB) return -1;
-                else if (y.DTB > y.DTB) return 1;
+                else if (x.DTB > y.DTB) return -1;
+                else if (x.DTB < y.DTB) return 1;
                 else return x.DTB.CompareTo(y.DTB);
             });
 
