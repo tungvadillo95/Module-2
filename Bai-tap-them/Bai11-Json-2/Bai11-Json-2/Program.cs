@@ -78,7 +78,6 @@ namespace Bai11_Json_2
                         Environment.Exit(0);
                         break;
                     default:
-                        Console.Clear();
                         Console.WriteLine("No choice!");
                         break;
                 }
@@ -107,7 +106,7 @@ namespace Bai11_Json_2
                     break;
                 default:
                     Console.WriteLine("No choice!");
-                    ShowCart();
+                    EditShoppingCart();
                     break;
             }
         }
@@ -199,12 +198,12 @@ namespace Bai11_Json_2
                 item.Value.Amount = 0;
             }
         }
-        static void WriteBillJson(Data bill)
+        static void WriteBillJson(Data data)
         {
             var fileBIll = $"bill.json";
             using (StreamWriter sw = File.CreateText($@"{FILE_BILL_PATH}\{fileBIll}"))
             {
-                var datum = JsonConvert.SerializeObject(bill);
+                var datum = JsonConvert.SerializeObject(data);
                 sw.Write(datum);
             }
         }
