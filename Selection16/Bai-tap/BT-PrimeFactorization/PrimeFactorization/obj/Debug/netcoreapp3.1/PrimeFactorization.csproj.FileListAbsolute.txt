@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\bin\Debug\netcoreapp3.1\PrimeFactorization.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\bin\Debug\netcoreapp3.1\PrimeFactorization.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\bin\Debug\netcoreapp3.1\PrimeFactorization.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\bin\Debug\netcoreapp3.1\PrimeFactorization.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\bin\Debug\netcoreapp3.1\PrimeFactorization.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\bin\Debug\netcoreapp3.1\PrimeFactorization.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\obj\Debug\netcoreapp3.1\PrimeFactorization.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\obj\Debug\netcoreapp3.1\PrimeFactorization.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\obj\Debug\netcoreapp3.1\PrimeFactorization.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\obj\Debug\netcoreapp3.1\PrimeFactorization.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\obj\Debug\netcoreapp3.1\PrimeFactorization.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\obj\Debug\netcoreapp3.1\PrimeFactorization.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-PrimeFactorization\PrimeFactorization\obj\Debug\netcoreapp3.1\PrimeFactorization.genruntimeconfig.cache

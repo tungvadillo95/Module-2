@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\bin\Debug\netcoreapp3.1\MultithreadingDemo.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\bin\Debug\netcoreapp3.1\MultithreadingDemo.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\bin\Debug\netcoreapp3.1\MultithreadingDemo.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\bin\Debug\netcoreapp3.1\MultithreadingDemo.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\bin\Debug\netcoreapp3.1\MultithreadingDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\bin\Debug\netcoreapp3.1\MultithreadingDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\obj\Debug\netcoreapp3.1\MultithreadingDemo.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\obj\Debug\netcoreapp3.1\MultithreadingDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\obj\Debug\netcoreapp3.1\MultithreadingDemo.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\obj\Debug\netcoreapp3.1\MultithreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\obj\Debug\netcoreapp3.1\MultithreadingDemo.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\obj\Debug\netcoreapp3.1\MultithreadingDemo.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-Multithreading\MultithreadingDemo\obj\Debug\netcoreapp3.1\MultithreadingDemo.genruntimeconfig.cache

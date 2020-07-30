@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\bin\Debug\netcoreapp3.1\RacingCars.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\bin\Debug\netcoreapp3.1\RacingCars.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\bin\Debug\netcoreapp3.1\RacingCars.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\bin\Debug\netcoreapp3.1\RacingCars.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\bin\Debug\netcoreapp3.1\RacingCars.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\bin\Debug\netcoreapp3.1\RacingCars.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\obj\Debug\netcoreapp3.1\RacingCars.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\obj\Debug\netcoreapp3.1\RacingCars.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\obj\Debug\netcoreapp3.1\RacingCars.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\obj\Debug\netcoreapp3.1\RacingCars.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\obj\Debug\netcoreapp3.1\RacingCars.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Thuc-hanh\TH-RacingCars\RacingCars\obj\Debug\netcoreapp3.1\RacingCars.genruntimeconfig.cache

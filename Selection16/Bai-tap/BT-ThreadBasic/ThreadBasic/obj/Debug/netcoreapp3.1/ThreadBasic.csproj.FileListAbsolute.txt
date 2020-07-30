@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\bin\Debug\netcoreapp3.1\ThreadBasic.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\bin\Debug\netcoreapp3.1\ThreadBasic.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\bin\Debug\netcoreapp3.1\ThreadBasic.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\bin\Debug\netcoreapp3.1\ThreadBasic.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\bin\Debug\netcoreapp3.1\ThreadBasic.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\bin\Debug\netcoreapp3.1\ThreadBasic.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\obj\Debug\netcoreapp3.1\ThreadBasic.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\obj\Debug\netcoreapp3.1\ThreadBasic.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\obj\Debug\netcoreapp3.1\ThreadBasic.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\obj\Debug\netcoreapp3.1\ThreadBasic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\obj\Debug\netcoreapp3.1\ThreadBasic.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\obj\Debug\netcoreapp3.1\ThreadBasic.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection16\Bai-tap\BT-ThreadBasic\ThreadBasic\obj\Debug\netcoreapp3.1\ThreadBasic.genruntimeconfig.cache

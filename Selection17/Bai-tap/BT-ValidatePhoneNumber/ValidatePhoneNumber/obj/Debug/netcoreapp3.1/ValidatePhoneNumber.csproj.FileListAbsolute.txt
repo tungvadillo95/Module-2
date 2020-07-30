@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\bin\Debug\netcoreapp3.1\ValidatePhoneNumber.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidatePhoneNumber\ValidatePhoneNumber\obj\Debug\netcoreapp3.1\ValidatePhoneNumber.csprojAssemblyReference.cache

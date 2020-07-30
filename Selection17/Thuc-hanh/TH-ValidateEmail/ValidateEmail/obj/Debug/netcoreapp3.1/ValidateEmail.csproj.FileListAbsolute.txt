@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\bin\Debug\netcoreapp3.1\ValidateEmail.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateEmail\ValidateEmail\obj\Debug\netcoreapp3.1\ValidateEmail.genruntimeconfig.cache

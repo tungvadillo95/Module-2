@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\bin\Debug\netcoreapp3.1\ValidateAccount.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Thuc-hanh\TH-ValidateAccount\ValidateAccount\obj\Debug\netcoreapp3.1\ValidateAccount.genruntimeconfig.cache

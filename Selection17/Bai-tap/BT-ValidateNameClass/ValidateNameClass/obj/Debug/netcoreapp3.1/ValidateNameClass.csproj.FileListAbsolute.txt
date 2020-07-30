@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\bin\Debug\netcoreapp3.1\ValidateNameClass.exe
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\bin\Debug\netcoreapp3.1\ValidateNameClass.deps.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\bin\Debug\netcoreapp3.1\ValidateNameClass.runtimeconfig.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\bin\Debug\netcoreapp3.1\ValidateNameClass.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\bin\Debug\netcoreapp3.1\ValidateNameClass.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\bin\Debug\netcoreapp3.1\ValidateNameClass.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\obj\Debug\netcoreapp3.1\ValidateNameClass.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\obj\Debug\netcoreapp3.1\ValidateNameClass.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\obj\Debug\netcoreapp3.1\ValidateNameClass.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\obj\Debug\netcoreapp3.1\ValidateNameClass.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\obj\Debug\netcoreapp3.1\ValidateNameClass.dll
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\obj\Debug\netcoreapp3.1\ValidateNameClass.pdb
+C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Selection17\Bai-tap\BT-ValidateNameClass\ValidateNameClass\obj\Debug\netcoreapp3.1\ValidateNameClass.genruntimeconfig.cache
