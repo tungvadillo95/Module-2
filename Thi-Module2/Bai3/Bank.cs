@@ -13,7 +13,7 @@ namespace Bai3
         }
         static void StartManagementAccount()
         {
-            string choice = "5";
+            string choice = "";
             while (choice != "4")
             {
                 Console.WriteLine("****....Management Account....****");
@@ -58,7 +58,7 @@ namespace Bai3
             Console.Write("Enter Account ID: ");
             string id_Account = Console.ReadLine();
             int idAccount;
-            while(!Int32.TryParse(id_Account,out idAccount)|| idAccount <= 0)
+            while(!int.TryParse(id_Account,out idAccount)|| idAccount <= 0)
             {
                 Console.Write("Enter again Account ID: ");
                 id_Account = Console.ReadLine();
@@ -70,7 +70,7 @@ namespace Bai3
                 float amount;
                 while (!float.TryParse(strAmount, out amount) || amount <= 0)
                 {
-                    Console.Write("Enter again Account ID: ");
+                    Console.Write("Enter again Amount: ");
                     strAmount = Console.ReadLine();
                 }
                 foreach(var account in AccountList.Values)

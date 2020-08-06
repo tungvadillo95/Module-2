@@ -1,1 +1,14 @@
-{"products":[{"ID":7,"Name":"Macbook 2020    ","Manufacturer":"USA    ","Price":4000000.0,"Amount":910000000,"IntoMoney":3640000000000000.0,"OtherDescriptions":"Empty"}],"TotalMoney":3640000000000000.0}
+{
+    "products": [
+        {
+            "ID": 7,
+            "Name": "Macbook 2020    ",
+            "Manufacturer": "USA    ",
+            "Price": 4000000.0,
+            "Amount": 910000000,
+            "IntoMoney": 3640000000000000.0,
+            "OtherDescriptions": "Empty"
+        }
+    ],
+    "TotalMoney": 3640000000000000.0
+}

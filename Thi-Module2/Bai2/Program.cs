@@ -120,7 +120,9 @@ namespace Bai2
             }
             else
             {
-                Console.WriteLine("This function is not available with this array!");
+                Console.WriteLine("This function is not available with this array! Because array is not an up array.");
+                Console.WriteLine("Press\"Enter\" to continue......");
+                Console.ReadLine();
             }
         }
         static bool IsCanSortUpArray(int[] arr)
@@ -189,7 +191,7 @@ namespace Bai2
         {
             for (int i = 0; i < arr.Length-1; i++)
             {
-                if (arr[i] >= arr[i + 1])
+                if (arr[i] > arr[i + 1])
                 {
                     return false;
                 }

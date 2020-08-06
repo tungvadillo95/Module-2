@@ -1,0 +1,38 @@
+{
+  "staffs": [
+  ],
+  "ID": "NO1",
+  "Name": "Jurgen Klopp",
+  "Position": "coach",
+  "Email": "123",
+  "PassWord": "123",
+  "orders": [
+    {
+      "OrderID": "1",
+      "Status": false,
+      "CustomerName": "a",
+      "CustomerAddress": "b",
+      "products": [
+        {
+          "ID": 1,
+          "Name": "Iphone 10       ",
+          "Manufacturer": "USA    ",
+          "Price": 9500000.0,
+          "Amount": 1,
+          "IntoMoney": 9500000.0,
+          "OtherDescriptions": "Empty"
+        },
+        {
+          "ID": 5,
+          "Name": "Fridge Panasonic",
+          "Manufacturer": "VN     ",
+          "Price": 7000000.0,
+          "Amount": 1,
+          "IntoMoney": 7000000.0,
+          "OtherDescriptions": "Empty"
+        }
+      ],
+      "TotalMoney": 16500000.0
+    }
+  ]
+}

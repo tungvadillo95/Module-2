@@ -13,13 +13,15 @@ namespace Bai3
             ID = "NO1",
             Name = "Jurgen Klopp",
             Position = "coach",
-            Email = "liverpool",
-            PassWord = "liverpool",
+            Email = "123",
+            PassWord = "123",
             staffs = new List<Staff>(),
             orders = new List<Order>()
         };
         const string FILE_PATH = @"C:\Users\ASUS\Desktop\BT-CODEGYM\Module-2\Bai-tap-them\Bai12-On-tap\Bai3\data";
         const string FILE_STAFFS_NAME = "staffs.json";
+        const string FILE_ODERS_ADMIN_NAME = "orders_admin.json";
+        const string FILE_ODERS_STAFF_NAME = "orders_staff.json";
         static void Main(string[] args)
         {
             GenerateMenuProduct();
@@ -94,7 +96,7 @@ namespace Bai3
                         ManagermentProduct();
                         break;
                     case "4":
-                        Console.WriteLine("...Change password...");
+                        StartChangePassword();
                         break;
                     case "0":
                         LoginUsingManagerment();
@@ -105,33 +107,21 @@ namespace Bai3
                 }
             }
         }
-        static void ManagermentProduct()
+        static void StartChangePassword()
         {
             Console.Clear();
             string choice = "x";
             while (choice != "0")
             {
-                Console.WriteLine("**-- Managerment product --**");
-                Console.WriteLine("1. Add product.");
-                Console.WriteLine("2. Edit product.");
-                Console.WriteLine("3. Remove product.");
-                Console.WriteLine("4. Show all product.");
+                Console.WriteLine("***... Change password ...***");
+                Console.WriteLine("1. Change password.");
                 Console.WriteLine("0. Back.");
                 Console.Write("Enter you choice: ");
                 choice = Console.ReadLine();
                 switch (choice)
                 {
                     case "1":
-                        AddProduct();
-                        break;
-                    case "2":
-                        Console.WriteLine("... Edit product ...");
-                        break;
-                    case "3":
-                        Console.WriteLine("... Remove product...");
-                        break;
-                    case "4":
-                        Console.WriteLine("... Show all product...");
+                        ChangePasswordAd();
                         break;
                     case "0":
                         GetAdminInterface();
@@ -143,25 +133,395 @@ namespace Bai3
 
             }
         }
+        static void ChangePasswordAd()
+        {
+            Console.WriteLine("... Change password ...");
+            Console.WriteLine("Login....");
+            Console.Write("Enter email: ");
+            string email = Console.ReadLine();
+            Console.Write("Enter password: ");
+            string password = Console.ReadLine();
+            string newPassword, temp;
+            if (admin.Email == email && admin.PassWord == password)
+            {
+                Console.WriteLine("Login complete....");
+                Console.Write("Enter new password: ");
+                newPassword = Console.ReadLine();
+                Console.Write("Enter again new password: ");
+                temp = Console.ReadLine();
+                if (newPassword == temp)
+                {
+                    Console.WriteLine("Change password complete....");
+                    admin.PassWord = newPassword;
+                }
+                else
+                {
+                    Console.WriteLine("Password are not correct!");
+                    StartChangePassword();
+                }
+            }
+            else
+            {
+                Console.WriteLine("Username and password are not correct!");
+                StartChangePassword();
+            }
+
+        }
+        static void ManagermentProduct()
+        {
+            Console.Clear();
+            string choice = "x";
+            while (choice != "0")
+            {
+                Console.WriteLine("**-- Managerment product --**");
+                Console.WriteLine("1. Add product.");
+                Console.WriteLine("2. Edit product.");
+                Console.WriteLine("3. Remove product.");
+                Console.WriteLine("4. Search product.");
+                Console.WriteLine("5. Show all product.");
+                Console.WriteLine("0. Back.");
+                Console.Write("Enter you choice: ");
+                choice = Console.ReadLine();
+                switch (choice)
+                {
+                    case "1":
+                        AddProduct();
+                        break;
+                    case "2":
+                        StartEditProduct();
+                        break;
+                    case "3":
+                        RemoveProduct();
+                        break;
+                    case "4":
+                        SearchProduct();
+                        break;
+                    case "5":
+                        ShowMenuProduct();
+                        break;
+                    case "0":
+                        GetAdminInterface();
+                        break;
+                    default:
+                        Console.WriteLine("No choice!");
+                        break;
+                }
+
+            }
+        }
+        static void SearchProduct()
+        {
+            Console.Clear();
+            string choice = "x";
+            while (choice != "0")
+            {
+                Console.WriteLine("... Search product ...");
+                Console.WriteLine("1. Search product by ID.");
+                Console.WriteLine("2. Search product by Name.");
+                Console.WriteLine("0. Back.");
+                Console.Write("Enter you choice: ");
+                choice = Console.ReadLine();
+                switch (choice)
+                {
+                    case "1":
+                        SearchProductById();
+                        break;
+                    case "2":
+                        SearchProductByName();
+                        break;
+                    case "0":
+                        ManagermentProduct();
+                        break;
+                    default:
+                        Console.WriteLine("No choice!");
+                        break;
+                }
+
+            }
+        }
+        static void SearchProductByName()
+        {
+            Console.WriteLine("Search product by Name...");
+            Console.Write("Enter new product Name: ");
+            string productName = Console.ReadLine();
+            int check = 0;
+            foreach (var product in menuProduct)
+            {
+                if (product.Value.Name == productName)
+                {
+                    Console.WriteLine("ID\tName\t\t\tManufacturer\t\tPrice\t\tOtherDescriptions\t\tAmount\tIntoMoney");
+                    Console.WriteLine(product.ToString());
+                }
+            }
+            if (check == 0)
+            {
+                Console.WriteLine("Product Name does not exist! Press\"Enter\"to go back...");
+                Console.ReadKey();
+            }
+        }
+        static void SearchProductById()
+        {
+            Console.WriteLine("Search product by ID...");
+            Console.Write("Enter new product ID: ");
+            string productId = Console.ReadLine();
+            int productID;
+            int check = 0;
+            while (!Int32.TryParse(productId, out productID) || productID <= 0)
+            {
+                Console.WriteLine("The new product ID is not validate!");
+                Console.Write("Enter again new product ID: ");
+                productId = Console.ReadLine();
+            }
+            foreach(var product in menuProduct)
+            {
+                if (product.Value.ID == productID)
+                {
+                    Console.WriteLine("ID\tName\t\t\tManufacturer\t\tPrice\t\tOtherDescriptions\t\tAmount\tIntoMoney");
+                    Console.WriteLine(product.ToString());
+                }
+            }
+            if (check == 0)
+            {
+                Console.WriteLine("Product ID does not exist! Press\"Enter\"to go back...");
+                Console.ReadKey();
+            }
+        }
+        static void ShowMenuProduct()
+        {
+            Console.WriteLine("... Show all product...");
+            Console.WriteLine("ID\tName\t\t\tManufacturer\t\tPrice\t\tOtherDescriptions\t\tAmount\tIntoMoney");
+            foreach(var product in menuProduct)
+            {
+                Console.WriteLine(product.ToString());
+            }
+        }
+        static void RemoveProduct()
+        {
+            Console.WriteLine("... Remove product ...");
+            Console.Write("Enter new product ID: ");
+            string productId = Console.ReadLine();
+            int productID;
+            while (!Int32.TryParse(productId, out productID) || productID <= 0 || !IsProductID(productID))
+            {
+                Console.WriteLine("The new product ID already exists or is not validate!");
+                Console.Write("Enter again new product ID: ");
+                productId = Console.ReadLine();
+            }
+            menuProduct.Remove(productID);
+        }
+        static void StartEditProduct()
+        {
+            Console.WriteLine("... Edit product ...");
+            Console.WriteLine("Enter product ID: ");
+            string idProduct = Console.ReadLine();
+            int idProductEdit;
+            while(!Int32.TryParse(idProduct,out idProductEdit)|| idProductEdit<=0)
+            {
+                Console.WriteLine("Enter again product ID: ");
+                idProduct = Console.ReadLine();
+            }
+            int check = 0;
+            foreach(var product in menuProduct)
+            {
+                if (product.Value.ID == idProductEdit)
+                {
+                    EditProduct(product.Value);
+                }
+            }
+            if (check == 0)
+            {
+                Console.WriteLine("ID does not exist ! Press \"Enter\" to go continue...");
+                Console.ReadKey();
+            }
+        }
+        static void EditProduct(Product product)
+        {
+            string choice = "x";
+            while (choice != "0")
+            {
+                Console.WriteLine("Do you want edit ?");
+                Console.WriteLine("1. Edit product ID.");
+                Console.WriteLine("2. Edit product Name.");
+                Console.WriteLine("3. Edit product Manufacturer.");
+                Console.WriteLine("4. Edit product Price.");
+                Console.WriteLine("5. Edit product Amount.");
+                Console.WriteLine("6. Edit product OtherDescriptions.");
+                Console.WriteLine("0. Back");
+                Console.Write("Enter you choice: ");
+                choice = Console.ReadLine();
+                switch (choice)
+                {
+                    case "1":
+                        EditProductID(product);
+                        break;
+                    case "2":
+                        EditProductName(product);
+                        break;
+                    case "3":
+                        EditProductManufacturer(product);
+                        break;
+                    case "4":
+                        EditProductPrice(product);
+                        break;
+                    case "5":
+                        EditProductAmount(product);
+                        break;
+                    case "6":
+                        EditProductOtherDescriptions(product);
+                        break;
+                    case "0":
+                        ManagermentProduct();
+                        break;
+                    default:
+                        Console.WriteLine("No choice!");
+                        break;
+                }
+            }
+            
+        }
+        static void EditProductOtherDescriptions(Product product)
+        {
+            Console.WriteLine("Edit product Other Descriptions...");
+            Console.Write("Enter new product name: ");
+            string newProductOtherDescriptions = Console.ReadLine();
+            product.OtherDescriptions = newProductOtherDescriptions;
+        }
+        static void EditProductAmount(Product product)
+        {
+            Console.WriteLine("Edit product Amount...");
+            Console.Write("Enter new product ID: ");
+            string newAmount = Console.ReadLine();
+            int newProductAmount;
+            while (!Int32.TryParse(newAmount, out newProductAmount) || newProductAmount < 0 )
+            {
+                Console.WriteLine("The new product ID already exists or is not validate!");
+                Console.Write("Enter again new product ID: ");
+                newAmount = Console.ReadLine();
+            }
+            product.Amount = newProductAmount;
+        }
+        static void EditProductPrice(Product product)
+        {
+            Console.WriteLine("Edit product Price...");
+            Console.Write("Enter new product Price: ");
+            string newPrice = Console.ReadLine();
+            double newProductPrice;
+            while (!Double.TryParse(newPrice, out newProductPrice) || newProductPrice <= 0 )
+            {
+                Console.WriteLine("The new product ID already exists or is not validate!");
+                Console.Write("Enter again new product ID: ");
+                newPrice = Console.ReadLine();
+            }
+            product.Price = newProductPrice;
+        }
+        static void EditProductManufacturer(Product product)
+        {
+            Console.WriteLine("Edit product Manufacturer...");
+            Console.Write("Enter new product name: ");
+            string newProductManufacturer = Console.ReadLine();
+            product.Manufacturer = newProductManufacturer;
+        }
+        static void EditProductName(Product product)
+        {
+            Console.WriteLine("Edit product Name...");
+            Console.Write("Enter new product name: ");
+            string newProductName = Console.ReadLine();
+            while (IsNameLiveInMenuList(newProductName))
+            {
+                Console.Write("Product name already exists or is not validate!");
+                Console.Write("Enter again new product name: ");
+                newProductName = Console.ReadLine();
+            }
+            product.Name = newProductName;
+        }
+        static bool IsNameLiveInMenuList(string nameProduct)
+        {
+            foreach(var product in menuProduct)
+            {
+                if (product.Value.Name == nameProduct)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        static void EditProductID(Product product)
+        {
+            Console.WriteLine("Edit product ID...");
+            Console.Write("Enter new product ID: ");
+            string newID = Console.ReadLine();
+            int newProductID;
+            while(!Int32.TryParse(newID,out newProductID)||newProductID<=0|| IsProductID(newProductID))
+            {
+                Console.WriteLine("The new product ID already exists or is not validate!");
+                Console.Write("Enter again new product ID: ");
+                newID = Console.ReadLine();
+            }
+            product.ID = newProductID;
+        }
         static void AddProduct()
         {
             Console.WriteLine("... Add product ...");
             Console.Write("Enter product ID: ");
-            string newProductId = Console.ReadLine();;
+            string newProductId = Console.ReadLine();
             int newProductID;
-            while (!Int32.TryParse(newProductId, out newProductID) || newProductID <= 0 || !isIDInOrderListProduct(newProductID, order))
+            while (!Int32.TryParse(newProductId, out newProductID) || newProductID <= 0 || IsIDLiveInMenuProduct(newProductID))
             {
-                Console.WriteLine("The ID does not exist in shopping cart!");
-                StartEditListProduct(order);
+                Console.WriteLine("The product id already exist in menu product!");
+                Console.Write("Enter again product ID: ");
+                newProductId = Console.ReadLine();
             }
-            return idProductEdit;
-
-            isProductID(idProduct);
-            GenerateProduct(int id, string name, string manufacturer, double price, string otherDescriptions);
+            Console.Write("Enter product name: ");
+            string newProductName = Console.ReadLine();
+            while (IsNameInMenuProduct(newProductName))
+            {
+                Console.WriteLine("The product name already exist in menu product!");
+                Console.Write("Enter again product name: ");
+                newProductName = Console.ReadLine();
+            }
+            Console.Write("Enter product manufacturer: ");
+            string newProductManufacturer = Console.ReadLine();
+            Console.Write("Enter product price: ");
+            string new_ProductPrice = Console.ReadLine();
+            double newProductPrice;
+            while (!Double.TryParse(new_ProductPrice, out newProductPrice) || newProductPrice <= 0)
+            {
+                Console.Write("Enter again product price: ");
+                new_ProductPrice = Console.ReadLine();
+            }
+            Console.Write("Enter product amount: ");
+            string new_ProductAmount = Console.ReadLine();
+            int newProductAmount;
+            while (!Int32.TryParse(new_ProductAmount, out newProductAmount) || newProductAmount <= 0)
+            {
+                Console.Write("Enter again product amount: ");
+                new_ProductPrice = Console.ReadLine();
+            }
+            Console.Write("Enter product other descriptions): ");
+            string newOtherDescriptions = Console.ReadLine();
+            GenerateProduct(newProductID, newProductName, newProductManufacturer, newProductPrice, newOtherDescriptions);
 
         }
-        static bool IsIDLiveInMenuProduct()
+        static bool IsNameInMenuProduct(string newProductName)
         {
+            foreach (var product in menuProduct)
+            {
+                if (product.Value.Name.ToUpper() == newProductName.ToUpper())
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        static bool IsIDLiveInMenuProduct(int newProductID)
+        {
+            foreach(var product in menuProduct)
+            {
+                if(product.Value.ID == newProductID)
+                {
+                    return true;
+                }
+            }
             return false;
         }
         static void ManagermentStaff()
@@ -201,7 +561,6 @@ namespace Bai3
         }
         static void SaveFileJsonStaffs()
         {
-            var fileStaffs = $"staffs.json";
             using (StreamWriter sw = File.CreateText($@"{FILE_PATH}\{FILE_STAFFS_NAME}"))
             {
                 var data = JsonConvert.SerializeObject(admin.staffs);
@@ -212,26 +571,60 @@ namespace Bai3
         {
             Console.WriteLine("-- Add staff --");
             Console.Write("Enter ID new Staff: ");
-            string id = Console.ReadLine();
+            string newStaffID = Console.ReadLine();
+            while (IsIDLiveInListStaff(newStaffID))
+            {
+                Console.Write("The staff id  already exist in list staffs!");
+                Console.Write("Enter again ID new Staff: ");
+                newStaffID = Console.ReadLine();
+            }
             Console.Write("Enter Name new Staff: ");
-            string name = Console.ReadLine();
+            string newStaffName = Console.ReadLine();
             Console.Write("Enter Position new Staff: ");
-            string position = Console.ReadLine();
+            string newStaffPosition = Console.ReadLine();
             Console.Write("Enter Email new Staff: ");
-            string email = Console.ReadLine();
+            string newStaffEmail = Console.ReadLine();
+            while (IsEmailInListStaff(newStaffEmail))
+            {
+                Console.Write("The staff email already exist in list staffs!");
+                Console.Write("Enter again Email new Staff: ");
+                newStaffEmail = Console.ReadLine();
+            }
             Console.Write("Enter PassWord new Staff: ");
-            string passWord = Console.ReadLine();
+            string newStaffPassword = Console.ReadLine();
             Staff staff = new Staff()
             {
-                ID = id,
-                Name = name,
-                Position = position,
-                Email = email,
-                PassWord = passWord,
+                ID = newStaffID,
+                Name = newStaffName,
+                Position = newStaffPosition,
+                Email = newStaffEmail,
+                PassWord = newStaffPassword,
                 orders = new List<Order>()
             };
             admin.staffs.Add(staff);
             SaveFileJsonStaffs();
+        }
+        static bool IsEmailInListStaff(string newStaffEmail)
+        {
+            foreach (var staff in admin.staffs)
+            {
+                if (staff.Email == newStaffEmail)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        static bool IsIDLiveInListStaff(string newStaffID)
+        {
+            foreach(var staff in admin.staffs)
+            {
+                if (staff.ID == newStaffID)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
         static void EditStaff()
         {
@@ -249,8 +642,8 @@ namespace Bai3
             }
             if (check == 0) 
             {
-                Console.WriteLine("ID does not exist !");
-                ManagermentStaff();
+                Console.WriteLine("ID does not exist ! Press \"Enter\" to go continue...");
+                Console.ReadKey();
             }
             SaveFileJsonStaffs();
         }
@@ -274,27 +667,39 @@ namespace Bai3
                     case "1":
                         Console.WriteLine("New ID: ");
                         string newID = Console.ReadLine();
+                        while (IsIDLiveInListStaff(newID))
+                        {
+                            Console.Write("The staff id  already exist in list staffs!");
+                            Console.Write("Enter again ID new Staff: ");
+                            newID = Console.ReadLine();
+                        }
                         staff.ID = newID;
                         break;
                     case "2":
                         Console.WriteLine("New Name: ");
                         string newName = Console.ReadLine();
-                        staff.ID = newName;
+                        staff.Name = newName;
                         break;
                     case "3":
                         Console.WriteLine("New Position: ");
                         string newPosition = Console.ReadLine();
-                        staff.ID = newPosition;
+                        staff.Position = newPosition;
                         break;
                     case "4":
                         Console.WriteLine("New Email: ");
                         string newEmail = Console.ReadLine();
-                        staff.ID = newEmail;
+                        while (IsEmailInListStaff(newEmail))
+                        {
+                            Console.Write("The staff email already exist in list staffs!");
+                            Console.Write("Enter again Email new Staff: ");
+                            newEmail = Console.ReadLine();
+                        }
+                        staff.Email = newEmail;
                         break;
                     case "5":
                         Console.WriteLine("New PassWord: ");
                         string newPassWord = Console.ReadLine();
-                        staff.ID = newPassWord;
+                        staff.PassWord = newPassWord;
                         break;
                     case "0":
                         ManagermentStaff();
@@ -311,24 +716,36 @@ namespace Bai3
             Console.WriteLine("Enter ID: ");
             string id = Console.ReadLine();
             int check = 0;
-            foreach (var staff in admin.staffs)
+            if (admin.staffs.Count != 0)
             {
-                if (staff.ID == id)
+                Staff staffRemove = new Staff();
+                foreach (var staff in admin.staffs)
                 {
-                    admin.staffs.Remove(staff);
-                    check++;
+                    if (staff.ID == id)
+                    {
+                        staffRemove = staff;
+                        check++;
+                    }
                 }
+                admin.staffs.Remove(staffRemove);
+                if (check == 0)
+                {
+                    Console.WriteLine("ID does not exist!Press\"Enter\"to go continue...");
+                    Console.ReadKey();
+                }
+                SaveFileJsonStaffs();
             }
-            if (check == 0)
+            else
             {
-                Console.WriteLine("ID does not exist !");
-                ManagermentStaff();
+                Console.WriteLine("Empty staff list!Press \"Enter\" to go continue...");
+                Console.ReadKey();
             }
-            SaveFileJsonStaffs();
+           
         }
         static void ManagermanetOrder()
         {
             Console.Clear();
+            PayAndSavingOrderPain();
             string choice = "x";
             while (choice != "0")
             {
@@ -364,6 +781,47 @@ namespace Bai3
 
             }
         }
+        static void PayAndSavingOrderPain()
+        {
+            foreach(var staff in admin.staffs)
+            {
+                foreach(var order in staff.orders)
+                {
+                    if (order.Status)
+                    {
+                        var LOG_FILE_BILL = $"Bill_{order.OrderID}_{DateTime.Now.ToString("dd_MM_yyyy_hh_mm_ss")}.json";
+                        using (StreamWriter sw = File.CreateText($@"{FILE_PATH}\{LOG_FILE_BILL}"))
+                        {
+                            var datum = JsonConvert.SerializeObject(order);
+                            sw.Write(datum);
+                        }
+                        staff.orders.Remove(order);
+                    }
+                }
+            }
+            for(int i = 0; i < admin.orders.Count; i++)
+            {
+                if (admin.orders[i].Status)
+                {
+                    var LOG_FILE_BILL = $"Bill_{admin.orders[i].OrderID}_{DateTime.Now.ToString("dd_MM_yyyy_hh_mm_ss")}.json";
+                    using (StreamWriter sw = File.CreateText($@"{FILE_PATH}\{LOG_FILE_BILL}"))
+                    {
+                        var datum = JsonConvert.SerializeObject(admin.orders[i]);
+                        sw.Write(datum);
+                    }
+                    admin.orders.Remove(admin.orders[i]);
+                }
+            }
+        }
+        static void SaveFileJsonOders()
+        {
+            using (StreamWriter sw = File.CreateText($@"{FILE_PATH}\{FILE_ODERS_ADMIN_NAME}"))
+            {
+                var data = JsonConvert.SerializeObject(admin.orders);
+                sw.Write(data);
+            }
+
+        }
         static void ShowAllOrder()
         {
             Console.WriteLine("-- Show all order --");
@@ -394,7 +852,7 @@ namespace Bai3
                         SearchOderByCustomerName();
                         break;
                     case "3":
-                        Console.WriteLine("Search order by customer address...");
+                        SearchOderByCustomerAddress();
                         break;
                     case "0":
                         ManagermanetOrder();
@@ -404,6 +862,26 @@ namespace Bai3
                         break;
                 }
 
+            }
+        }
+        static void SearchOderByCustomerAddress()
+        {
+            Console.WriteLine("Search order by customer address...");
+            Console.Write("Enter customer address: ");
+            string customerAddress = Console.ReadLine();
+            int count = 0;
+            foreach (var order in admin.orders)
+            {
+                if (order.CustomerAddress.ToUpper() == customerAddress.ToUpper())
+                {
+                    order.Display();
+                    count++;
+                }
+            }
+            if (count == 0)
+            {
+                Console.WriteLine("Customer address does not exist! Press\"Enter\"to go back...");
+                Console.ReadKey();
             }
         }
         static void SearchOderByCustomerName()
@@ -428,7 +906,6 @@ namespace Bai3
         }
         static void SearchOrderByOrderID()
         {
-            Console.WriteLine("Search order by order ID...");
             Console.Write("Enter order ID: ");
             string orderID = Console.ReadLine();
             bool isOrderIDInListOderAdmin = IsOrderIDInListOrderAdmin(orderID);
@@ -455,6 +932,7 @@ namespace Bai3
             string choice = "x";
             while (choice != "0")
             {
+                SaveFileJsonOders();
                 Console.WriteLine("-- Edit order --");
                 Console.WriteLine("1. Edit order ID.");
                 Console.WriteLine("2. Edit status order.");
@@ -543,6 +1021,7 @@ namespace Bai3
                 Console.WriteLine("Oder ID does not exist! Press\"Enter\"to go back...");
                 Console.ReadKey();
             }
+            PayAndSavingOrderPain();
 
         }
         static void EditCustomerName()
@@ -622,7 +1101,7 @@ namespace Bai3
         }
         static void StartEditListProduct(Order order)
         {
-            ShowOrderListProduct(order);
+            ShowListProductInOrder(order);
             Console.WriteLine("1. Edit amount product");
             Console.WriteLine("2. Remove product");
             Console.WriteLine("0. Back");
@@ -684,14 +1163,14 @@ namespace Bai3
             Console.Write("Enter ID product edit: ");
             string strID = Console.ReadLine();
             int idProductEdit;
-            while (!Int32.TryParse(strID, out idProductEdit) || idProductEdit <= 0 || !isIDInOrderListProduct(idProductEdit, order))
+            while (!Int32.TryParse(strID, out idProductEdit) || idProductEdit <= 0 || !IsIDInOrderListProduct(idProductEdit, order))
             {
                 Console.WriteLine("The ID does not exist in shopping cart!");
                 StartEditListProduct(order);
             }
             return idProductEdit;
         }
-        static bool isIDInOrderListProduct(int idProductEdit, Order order)
+        static bool IsIDInOrderListProduct(int idProductEdit, Order order)
         {
             foreach (var product in order.products)
             {
@@ -702,7 +1181,7 @@ namespace Bai3
             }
             return false;
         }
-        static void ShowOrderListProduct(Order order)
+        static void ShowListProductInOrder(Order order)
         {
             Console.WriteLine("ID\tName\t\t\tManufacturer\t\tPrice\t\tOtherDescriptions\t\tAmount\tIntoMoney");
             foreach (var product in order.products)
@@ -728,6 +1207,8 @@ namespace Bai3
             string choice = "x";
             while (choice != "0")
             {
+                SaveFileJsonOders();
+                PayAndSavingOrderPain();
                 Console.WriteLine("-- Generate order --");
                 Console.WriteLine("1. Generate order.");
                 Console.WriteLine("0. Back.");
@@ -799,7 +1280,7 @@ namespace Bai3
                         break;
                     default:
                         int idProduct;
-                        while (!Int32.TryParse(buyNumber, out idProduct) || idProduct <= 0 || !isProductID(idProduct))
+                        while (!Int32.TryParse(buyNumber, out idProduct) || idProduct <= 0 || !IsProductID(idProduct))
                         {
                             Console.WriteLine("The selection does not exist!");
                             GenerateListProduct(order);
@@ -830,11 +1311,11 @@ namespace Bai3
             }
             return quantity;
         }
-        static bool isProductID(int id)
+        static bool IsProductID(int id)
         {
             foreach (var product in menuProduct)
             {
-                if (product.Key == id)
+                if (product.Value.ID == id)
                 {
                     return true;
                 }

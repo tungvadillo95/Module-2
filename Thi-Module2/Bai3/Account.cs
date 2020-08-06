@@ -18,7 +18,7 @@ namespace Bai3
 
         public string ShowInfo()
         {
-            return $"Account ID: {AccountId}\tFrist Name: {Fristname}\tLasrt Name: {Lastname}\tGender: {Gender}\tBanlance: {Banlance}";
+            return $"Account ID: {AccountId}\tFrist Name: {Fristname}\tLasrt Name: {Lastname}\tGender: {Gender}\tBanlance: {Banlance} VND";
         }
     }
 }

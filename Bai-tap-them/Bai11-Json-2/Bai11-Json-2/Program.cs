@@ -129,7 +129,7 @@ namespace Bai11_Json_2
             Console.WriteLine("Enter new amount: ");
             string new_Amount = Console.ReadLine();
             int newAmount;
-            while (!IsInteger(new_Amount, out newAmount) || newAmount <= 0 )
+            while (!IsInteger(new_Amount, out newAmount) || newAmount <= 0)
             {
                 Console.WriteLine("Enter again new amount: ");
                 new_Amount = Console.ReadLine();
@@ -210,10 +210,10 @@ namespace Bai11_Json_2
         static void ShowCart()
         {
             Console.WriteLine("ID\tName\t\t\tManufacturer\t\tPrice\t\tOtherDescriptions\t\tAmount\tIntoMoney");
-                foreach (var product in data.products)
-                {
-                    Console.WriteLine(product.ToString());
-                }
+            foreach (var product in data.products)
+            {
+                Console.WriteLine(product.ToString());
+            }
             Console.WriteLine();
         }
         static void BuyProduct()
@@ -274,7 +274,7 @@ namespace Bai11_Json_2
             int value;
             while (!IsInteger(number, out value) || value <= 0)
             {
-                Console.Write("The quantity is not valid!. Enter again amount: ");
+                Console.Write("The quantity is not validate!. Enter again amount: ");
                 number = Console.ReadLine();
             }
             return value;
